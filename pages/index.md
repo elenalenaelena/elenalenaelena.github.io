@@ -1,24 +1,35 @@
 ---
 layout: page
-title: Docsy Jekyll Theme
+title: ZELASTO Knowledge Base
 permalink: /
 ---
 
-# Welcome to the ZELASTO Knowledge Base on Elastic Displays
+# ZELASTO Knowledge Base on Elastic Displays
 
 ## Purpose
 
-...
+- Einleitung
 
-## Structure
 
-- Glossary on 4 main topics in Elastic Display application development
-- Best Practices based on personal experience
+## Aufbau der Wissensbasis
 
-## Topics
+- Gliederung in 4 Themen
+- Themenbezogen oder als Workshop nutzbar
+- Jedes Thema behandelt spezielle Herausforderungen elastischer Displays
+- Für jede Herausforederung existiert ein Best Practice (+ optional eine Workshopidee)
+- Verlinkungen auf Glossar, Ressourcen und andere Best Practices
 
- - *Technology* including ...
- - *User Behaviour* including ...
- - *Design* including ...
- - *Society* including ...
- - *Best Practices* 
+## Themen
+
+ - *Technology*  
+ - *User Behaviour*
+ - *Design*
+ - *Society*
+
+## Glossar
+
+A - Z
+
+## Ressources
+
+- Dokumente, Bilder, andere Projekte, News, Interviews etc.
