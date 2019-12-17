@@ -29,9 +29,9 @@ More fancy markdown: [GitHub Flavored Markdown](https://guides.github.com/featur
 
 The name of the theme is stored in the Jekyll `_config.yml` configuration file. You can either choose from one of the supported themes or use a remote-theme. To enable a theme:
 
-`theme: jekyll-theme-minimal` OR `remote_theme: "vsoch/docsy-jekyll"`
+`theme: theme-name` OR `remote_theme: "author/theme-name"`
 
-The current theme is the remote theme `docsy-jekyll`. 
+The current theme is the remote theme `vsoch/docsy-jekyll`. 
 
 ### Support
 
