@@ -35,4 +35,4 @@ The current theme is the remote theme `vsoch/docsy-jekyll`.
 
 ### Support
 
-Github Pages documentation [documentation](https://help.github.com/categories/github-pages-basics/)
+ [Github Pages documentation](https://help.github.com/categories/github-pages-basics/)
