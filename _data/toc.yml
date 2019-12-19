@@ -1,47 +1,15 @@
-caption: Documentation
-url: docs
-links:
-  - title: "Getting Started"
-    url: "docs/getting-started"
-    children:
-      - title: Features
-        url: "docs/getting-started#getting-started"
-      - title: Development
-        url: "docs/getting-started#development"
-      - title: Customization
-        url: "docs/getting-started#customization"
-  - title: "Extras"
-    url: "docs/extras"
-    children:
-     - title: Quizzes
-       url: "docs/extras/example-quiz"
-     - title: Tags Page
-       url: "tags"
-  - title: "About"
-    url: "about"
-  - title: "News"
-    url: "news"
-     
-caption: Documentation
-url: docs
-links:
-  - title: "Getting Started"
-    url: "docs/getting-started"
-    children:
-      - title: Features
-        url: "docs/getting-started#getting-started"
-      - title: Development
-        url: "docs/getting-started#development"
-      - title: Customization
-        url: "docs/getting-started#customization"
-  - title: "Extras"
-    url: "docs/extras"
-    children:
-     - title: Quizzes
-       url: "docs/extras/example-quiz"
-     - title: Tags Page
-       url: "tags"
-  - title: "About"
-    url: "about"
-  - title: "News"
-    url: "news"
+- name: Getting Started
+  items:
+    - name: Step 1 - Install, run, and write your first event
+      href: getting-started/index.md
+    - name: Step 2 - Read events from a stream and subscribe to changes
+      href: getting-started/reading-subscribing-events.md
+- name: .NET API
+  items:
+    - name: Overview
+      href: dotnet-api/index.md
+    - name: Connecting to a server
+      href: dotnet-api/connecting-to-a-server.md
+    - name: Streams
+      href: dotnet-api/streams.md
+   
