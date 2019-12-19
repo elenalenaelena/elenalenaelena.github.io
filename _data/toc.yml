@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 - title: Glossary
   url: docs
   links:
@@ -21,4 +22,11 @@
       url: "about"
     - title: "News"
       url: "news"
+=======
+title: Glossary
+url: docs  
+
+title: Best Practices
+url: about
+>>>>>>> f9d07eb52869b808b0dfaa661788aa4448e9da28
   
