@@ -6,19 +6,13 @@
 - title: Best Practices
   url: "about"
   links:
-    - title: "Technology"
+    - title: Technology
         url: "about"
         children:
-          - title: Best Practice_1
+          - title: Best_Practice_1
             url: "about"
-          - title: Best Practice_2
+          - title: Best_Practice_2
             url: "about"
-          - title: Best Practice_3
+          - title: Best_Practice_3
             url: "about"
-    - title: "UX"
-      url: "about"
-    - title: "Design"
-      url: "about"
-    - title: "Society"
-      url: "about"
       
