@@ -1,20 +1,10 @@
 - title: Wissen A-Z
   url: docs
   links:
-    - title: "A"
-      url: "docs/b"
-      children:
-        - title: "ACM Computing Classification System"
-          url: "docs/acm-computing-classification-system"
-        - title: "Actuated Display"
-          url: "docs/acutated-display"
-    - title: "B"
-      url: "docs/b"
-      children:
-        - title: "Braille Display"
-          url: "docs/braille-display"
+    - title: "Braille Display"
+      url: "docs/braille-display"
 - title: Best Practices
-  url: about
+  url: "about"
   links:
     - title: "Technology"
         url: "about"
@@ -31,6 +21,4 @@
       url: "about"
     - title: "Society"
       url: "about"
-- title: Hintergrund
-  url: news
       
