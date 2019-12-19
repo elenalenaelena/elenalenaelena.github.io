@@ -1,4 +1,4 @@
-- title: Documentation
+- caption: Documentation
   url: docs
   links:
     - title: "Getting Started"
@@ -22,7 +22,7 @@
     - title: "News"
       url: "news"
       
-- title: Documentation
+- caption: Documentation
   url: docs
   links:
     - title: "Getting Started"
