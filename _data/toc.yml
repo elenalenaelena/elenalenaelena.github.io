@@ -1,3 +1,4 @@
+toc:
 - title: Documentation
   url: docs
   links:
@@ -21,4 +22,6 @@
       url: "about"
     - title: "News"
       url: "news"
+- title: Documentation
+  url: docs
   
