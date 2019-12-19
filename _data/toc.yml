@@ -26,3 +26,8 @@
   links:
   - title: Technology
     url: technology
+    children:
+     - title: Quizzes
+       url: "docs/extras/example-quiz"
+        - title: Tags Page
+          url: "tags"
