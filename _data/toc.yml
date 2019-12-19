@@ -1,6 +1,13 @@
-- title: Documentation
+- title: Glossary
   url: docs  
-      
+  links:
+   - title: x
+     url: docs
+     children:
+      - title: g
+        url: docs
+      - title: s
+         url: docs
 - title: Documentation
   url: docs
   
