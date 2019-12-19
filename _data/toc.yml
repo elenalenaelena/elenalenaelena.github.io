@@ -1,23 +1,36 @@
-- title: Documentation
+- title: Wissen A-Z
   url: docs
   links:
-    - title: "Getting Started"
-      url: "docs/getting-started"
+    - title: "A"
+      url: "docs/b"
       children:
-        - title: Features
-          url: "docs/getting-started#getting-started"
-        - title: Development
-          url: "docs/getting-started#development"
-        - title: Customization
-          url: "docs/getting-started#customization"
-    - title: "Extras"
-      url: "docs/extras"
+        - title: "ACM Computing Classification System"
+          url: "docs/acm-computing-classification-system"
+        - title: "Actuated Display"
+          url: "docs/acutated-display"
+    - title: "B"
+      url: "docs/b"
       children:
-        - title: Quizzes
-          url: "docs/extras/example-quiz"
-        - title: Tags Page
-          url: "tags"
-    - title: "About"
+        - title: "Braille Display"
+          url: "docs/braille-display"
+- title: Best Practices
+  url: about
+  links:
+    - title: "Technology"
+        url: "about"
+        children:
+          - title: Best Practice_1
+            url: "about"
+          - title: Best Practice_2
+            url: "about"
+          - title: Best Practice_3
+            url: "about"
+    - title: "UX"
       url: "about"
-    - title: "News"
-      url: "news"
+    - title: "Design"
+      url: "about"
+    - title: "Society"
+      url: "about"
+- title: Hintergrund
+  url: news
+      

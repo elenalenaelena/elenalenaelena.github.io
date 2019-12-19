@@ -10,13 +10,13 @@ permalink: /
 
 - Einleitung
 
-
 ## Aufbau der Wissensbasis
 
-- Gliederung in 4 Themen
-- Themenbezogen oder als Workshop nutzbar
-- Jedes Thema behandelt spezielle Herausforderungen elastischer Displays
-- Für jede Herausforederung existiert ein Best Practice (+ optional eine Workshopidee)
+- 4 Themen
+- Themenbezogen oder als modularer Workshop nutzbar
+- Themen behandeln spezielle Herausforderungen elastischer Displays
+- Best Practices beschreiben jeweils, wie den Herausforderungen begegnet werden kann
+- optional gibt es eine Anleitung, wie sich dem Thema im Rahmen eines Workshops
 - Verlinkungen auf Glossar, Ressourcen und andere Best Practices
 
 ## Themen
