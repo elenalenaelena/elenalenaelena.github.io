@@ -1,15 +1,6 @@
-- name: Getting Started
-  items:
-    - name: Step 1 - Install, run, and write your first event
-      href: getting-started/index.md
-    - name: Step 2 - Read events from a stream and subscribe to changes
-      href: getting-started/reading-subscribing-events.md
-- name: .NET API
-  items:
-    - name: Overview
-      href: dotnet-api/index.md
-    - name: Connecting to a server
-      href: dotnet-api/connecting-to-a-server.md
-    - name: Streams
-      href: dotnet-api/streams.md
-   
+- title: Documentation
+  url: docs  
+      
+- title: Documentation
+  url: docs
+  
