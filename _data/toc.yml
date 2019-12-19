@@ -1,4 +1,3 @@
-toc:
 - title: Documentation
   url: docs
   links:
@@ -22,6 +21,6 @@ toc:
       url: "about"
     - title: "News"
       url: "news"
-- title: Documentation
+- title: Best Practices
   url: docs
   
