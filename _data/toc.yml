@@ -1,5 +1,5 @@
-- title: Documentation
-  url: docs
+- title: Glossary
+  url: glossary
   links:
     - title: "Getting Started"
       url: "docs/getting-started"
@@ -23,4 +23,4 @@
       url: "news"
 
 - title: Best Practices
-  url: docs
+  url: best-practices
