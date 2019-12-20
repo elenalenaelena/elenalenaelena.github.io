@@ -1,22 +1,13 @@
 ---
 layout: page
-title: "#2 Device Form and Resolution"
-permalink: /2-device-form-and-resolution/
+title: Design
+permalink: /design/
 ---
 
-# #2 Device Form and Resolution
+### Topic
+# Technology
 
-### Challenge
-...
-
-### Solutions
-...
-
-### Example
-...
-
-## Workshop
-...
+Find Best Practices about the design of elastic displays.
 
 <div class="section-index">
     <hr class="panel-line">

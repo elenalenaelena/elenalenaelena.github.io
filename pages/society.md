@@ -1,22 +1,13 @@
 ---
 layout: page
-title: "#2 Device Form and Resolution"
-permalink: /2-device-form-and-resolution/
+title: Society
+permalink: /society/
 ---
 
-# #2 Device Form and Resolution
+### Topic
+# Society
 
-### Challenge
-...
-
-### Solutions
-...
-
-### Example
-...
-
-## Workshop
-...
+Find Best Practices about elastic displays and their societal context.
 
 <div class="section-index">
     <hr class="panel-line">

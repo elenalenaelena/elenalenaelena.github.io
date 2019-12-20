@@ -1,22 +1,13 @@
 ---
 layout: page
-title: "#2 Device Form and Resolution"
-permalink: /2-device-form-and-resolution/
+title: User Experience
+permalink: /ux/
 ---
 
-# #2 Device Form and Resolution
+### Topic
+# User Experience
 
-### Challenge
-...
-
-### Solutions
-...
-
-### Example
-...
-
-## Workshop
-...
+Find Best Practices about the user experience of elastic displays.
 
 <div class="section-index">
     <hr class="panel-line">

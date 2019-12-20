@@ -6,13 +6,13 @@ permalink: /1-prototyping-toolkits/
 
 # #1 Prototyping Toolkits
 
-## Challenge
+### Challenge
 ...
 
-## Solutions
+### Solutions
 ...
 
-## Example
+### Example
 ...
 
 ## Workshop
