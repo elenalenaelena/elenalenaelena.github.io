@@ -1,26 +1,27 @@
 - title: Glossary
   url: glossary
   links:
-    - title: "Getting Started"
-      url: "docs/getting-started"
+    - title: "A"
+      url: "docs/a"
+    - title: "B"
+      url: "docs/b"
       children:
-        - title: Features
-          url: "docs/getting-started#getting-started"
-        - title: Development
-          url: "docs/getting-started#development"
-        - title: Customization
-          url: "docs/getting-started#customization"
-    - title: "Extras"
-      url: "docs/extras"
-      children:
-        - title: Quizzes
-          url: "docs/extras/example-quiz"
-        - title: Tags Page
-          url: "tags"
-    - title: "About"
-      url: "about"
-    - title: "News"
-      url: "news"
+        - title: Braille Display
+          url: "docs/b/braille-display"
 
 - title: Best Practices
   url: best-practices
+  links:
+    - title: "Technology"
+      url: "pages/best-practices/technology"
+      children:
+        - title: Prototyping Toolkits
+          url: "pages/best-practices/technology/1-prototyping-toolkits"
+        - title: Device Form and Resolution
+          url: "pages/best-practices/technology/2-device-form-and-resolution"
+
+- title: News
+  url: news
+
+- title: About ZELASTO
+  url: about
