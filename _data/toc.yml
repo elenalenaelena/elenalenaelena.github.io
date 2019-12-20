@@ -13,18 +13,18 @@
   url: best-practices
   links:
     - title: "Technology"
-      url: "/pages/technology"
+      url: "technology"
       children:
         - title: "#1 Prototyping Toolkits"
-          url: "/pages/1-prototyping-toolkits"
+          url: "1-prototyping-toolkits"
         - title: "#2 Device Form and Resolution"
-          url: "/pages/2-device-form-and-resolution"
+          url: "2-device-form-and-resolution"
     - title: "UX"
-      url: "/best-practices/ux"
+      url: "ux"
     - title: "Design"
-      url: "/best-practices/design"
+      url: "design"
     - title: "Society"
-      url: "/best-practices/society"
+      url: "society"
 
 - title: News
   url: news

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "#1 Prototyping Toolkits"
-permalink: /pages/1-prototyping-toolkits
+permalink: /1-prototyping-toolkits/
 ---
 
 # #1 Prototyping Toolkits

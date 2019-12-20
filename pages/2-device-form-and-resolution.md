@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "#2 Device Form and Resolution"
-permalink: /pages/2-device-form-and-resolution
+permalink: /2-device-form-and-resolution/
 ---
 
 # #2 Device Form and Resolution
