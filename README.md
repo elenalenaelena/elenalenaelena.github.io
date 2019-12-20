@@ -31,7 +31,11 @@ The name of the theme is stored in the Jekyll `_config.yml` configuration file. 
 
 `theme: theme-name` OR `remote_theme: "author/theme-name"`
 
-The current theme is the remote theme `vsoch/docsy-jekyll`. 
+The current theme is the remote theme `vsoch/docsy-jekyll`. Custom modifications to the remote theme include the sidebar functionality as well as ...
+
+### Jekyll Plugins
+
+...
 
 ### Support
 
