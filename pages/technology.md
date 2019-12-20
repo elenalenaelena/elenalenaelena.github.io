@@ -1,22 +1,13 @@
 ---
 layout: page
-title: "#1 Prototyping Toolkits"
-permalink: best-practices/1-prototyping-toolkits
+title: Technology
+permalink: /technology/
 ---
 
-# #1 Prototyping Toolkits
+### Topic
+# Technology
 
-## Challenge
-...
-
-## Solutions
-...
-
-## Example
-...
-
-## Workshop
-...
+Find Best Practices about the technology of elastic displays.
 
 <div class="section-index">
     <hr class="panel-line">

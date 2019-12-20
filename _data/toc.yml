@@ -13,23 +13,14 @@
   url: best-practices
   links:
     - title: "Technology"
-      url: "/best-practices/technology"
+      url: "/pages/technology"
       children:
         - title: "#1 Prototyping Toolkits"
-          url: "/best-practices/technology/1-prototyping-toolkits"
+          url: "/pages/1-prototyping-toolkits"
         - title: "#2 Device Form and Resolution"
-          url: "/best-practices/technology/2-device-form-and-resolution"
-        - title: "#3"
-          url: "/best-practices/technology/3"
+          url: "/pages/2-device-form-and-resolution"
     - title: "UX"
       url: "/best-practices/ux"
-      children:
-        - title: "#4"
-          url: "/best-practices/ux/4"
-        - title: "#5"
-          url: "/best-practices/ux/5"
-        - title: "#6"
-          url: "/best-practices/ux/6"
     - title: "Design"
       url: "/best-practices/design"
     - title: "Society"
