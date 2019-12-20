@@ -13,12 +13,41 @@
   url: best-practices
   links:
     - title: "Technology"
-      url: "pages/best-practices/technology"
+      url: "/best-practices/technology"
       children:
         - title: "#1 Prototyping Toolkits"
-          url: "pages/best-practices/technology/1-prototyping-toolkits"
+          url: "/best-practices/technology/1-prototyping-toolkits"
         - title: "#2 Device Form and Resolution"
-          url: "pages/best-practices/technology/2-device-form-and-resolution"
+          url: "/best-practices/technology/2-device-form-and-resolution"
+        - title: "#3"
+          url: "/best-practices/technology/3"
+    - title: "UX"
+      url: "/best-practices/ux"
+      children:
+        - title: "#4"
+          url: "/best-practices/ux/4"
+        - title: "#5"
+          url: "/best-practices/ux/5"
+        - title: "#6"
+          url: "/best-practices/ux/6"
+    - title: "Design"
+      url: "/best-practices/design"
+      children:
+        - title: "#7"
+          url: "/best-practices/design/7"
+        - title: "#8"
+          url: "/best-practices/design/8"
+        - title: "#9"
+          url: "/best-practices/design/9"
+    - title: "Society"
+      url: "/best-practices/society"
+      children:
+        - title: "#10"
+          url: "/best-practices/society/10"
+        - title: "#11"
+          url: "/best-practices/society/11"
+        - title: "#12"
+          url: "/best-practices/society/12"
 
 - title: News
   url: news
