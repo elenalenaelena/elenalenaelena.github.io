@@ -15,9 +15,9 @@
     - title: "Technology"
       url: "pages/best-practices/technology"
       children:
-        - title: Prototyping Toolkits
+        - title: "#1 Prototyping Toolkits"
           url: "pages/best-practices/technology/1-prototyping-toolkits"
-        - title: Device Form and Resolution
+        - title: "#2 Device Form and Resolution"
           url: "pages/best-practices/technology/2-device-form-and-resolution"
 
 - title: News
