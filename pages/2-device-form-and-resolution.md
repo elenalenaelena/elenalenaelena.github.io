@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "#2 Device Form and Resolution"
+title: "_2 Device Form and Resolution"
 permalink: /2-device-form-and-resolution/
 ---
 
-# #2 Device Form and Resolution
+# _2 Device Form and Resolution
 
 ### Challenge
 ...

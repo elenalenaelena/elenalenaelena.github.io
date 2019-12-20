@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "#1 Prototyping Toolkits"
+title: "_1 Prototyping Toolkits"
 permalink: /1-prototyping-toolkits/
 ---
 
-# #1 Prototyping Toolkits
+# _1 Prototyping Toolkits
 
 ### Challenge
 ...

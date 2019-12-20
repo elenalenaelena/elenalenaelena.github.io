@@ -4,7 +4,7 @@ title: Technology
 permalink: /technology/
 ---
 
-#### Topic
+### Topic
 # Technology
 
 Find Best Practices about the technology of elastic displays.

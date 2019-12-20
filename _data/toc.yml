@@ -15,9 +15,9 @@
     - title: "Technology"
       url: "technology"
       children:
-        - title: "#1 Prototyping Toolkits"
+        - title: "_1 Prototyping Toolkits"
           url: "1-prototyping-toolkits"
-        - title: "#2 Device Form and Resolution"
+        - title: "_2 Device Form and Resolution"
           url: "2-device-form-and-resolution"
     - title: "UX"
       url: "ux"

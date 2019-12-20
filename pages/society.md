@@ -4,7 +4,7 @@ title: Society
 permalink: /society/
 ---
 
-#### Topic
+### Topic
 # Society
 
 Find Best Practices about the societal context of elastic displays.

@@ -4,7 +4,7 @@ title: Design
 permalink: /design/
 ---
 
-#### Topic
+### Topic
 # Design
 
 Find Best Practices about the design of elastic displays.

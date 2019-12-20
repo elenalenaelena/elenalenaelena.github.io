@@ -4,7 +4,7 @@ title: User Experience
 permalink: /ux/
 ---
 
-#### Topic
+### Topic
 # User Experience
 
 Find Best Practices about the user experience of elastic displays.
