@@ -1,13 +1,5 @@
-- title: Glossary
-  url: glossary
-  links:
-    - title: "A"
-      url: "docs/a"
-    - title: "B"
-      url: "docs/b"
-      children:
-        - title: Braille Display
-          url: "docs/b/braille-display"
+- title: About ZELASTO
+  url: about
 
 - title: Best Practices
   url: best-practices
@@ -26,8 +18,17 @@
     - title: "Society"
       url: "society"
 
+- title: Glossary
+  url: glossary
+  links:
+    - title: "A"
+      url: "docs/a"
+    - title: "B"
+      url: "docs/b"
+      children:
+        - title: Braille Display
+          url: "docs/b/braille-display"
+
 - title: News
   url: news
 
-- title: About ZELASTO
-  url: about
