@@ -7,7 +7,7 @@ permalink: /technology/
 ### Topic
 # Technology
 
-Find Best Practices about the technology of elastic displays.
+Best Practices on technical challenges of elastic displays cover prototyping toolkits, miniaturisation of devices etc. ...
 
 <div class="section-index">
     <hr class="panel-line">
