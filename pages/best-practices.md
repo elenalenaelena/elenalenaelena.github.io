@@ -6,7 +6,7 @@ permalink: /best-practices/
 
 # Best Practices
 
-Best Practices cover current challenges in 4 major topics of elastic displays research. Read about a specific challenge and why it is important, what options you have to face it and discover examples of existing solutions. Additional workshop instructions help you to quickly apply your aquired knowledge in practice.
+Best Practices cover current challenges of elastic displays research in the 4 major topics <a href="{{site.baseurl }}/technology">technology</a>, UX, design and society. Read about a specific challenge and why it is important, what options you have to face it and discover examples of existing solutions. Additional workshop instructions help you to quickly apply your aquired knowledge in practice.
 
 <div class="section-index">
     <hr class="panel-line">
