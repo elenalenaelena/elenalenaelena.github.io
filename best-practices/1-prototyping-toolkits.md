@@ -5,7 +5,7 @@ permalink: /1-prototyping-toolkits/
 ---
 
 technology
-{: .topic .topic-technology}
+{: .topic}
 
 # __1 Prototyping Toolkits
 
