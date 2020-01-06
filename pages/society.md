@@ -6,9 +6,10 @@ permalink: /society/
 
 <h4 class="strap">Topic</h4>
 # Society
-{: .topic-society}
+{: .topic-society .topic-headline}
 
-Find Best Practices about the societal context of elastic displays.
+### Best Practices
+- [__4 Placeholder](/4-placeholder/)
 
 <hr class="panel-line">
 <h4>Other Topics</h4>

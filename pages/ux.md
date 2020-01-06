@@ -6,9 +6,10 @@ permalink: /ux/
 
 <h4 class="strap">Topic</h4>
 # User Experience
-{: .topic-ux}
+{: .topic-ux .topic-headline}
 
-Find Best Practices about the user experience of elastic displays.
+### Best Practices
+- [__3 Placeholder](/3-placeholder/)
 
 <hr class="panel-line">
 <h4>Other Topics</h4>

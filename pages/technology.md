@@ -6,11 +6,11 @@ permalink: /technology/
 
 <h4 class="strap">Topic</h4>
 # Technology
-{: .topic-technology}
+{: .topic-technology .topic-headline}
 
 Introduction on technical challenges of elastic displays cover prototyping toolkits, miniaturisation of devices etc. ...
 
-## Best Practices
+### Best Practices
 - [__1 Prototyping Toolkits](/1-prototyping-toolkits/)
 - [__2 Device Form and Resolution](/2-device-form-and-resolution/)
 

@@ -57,15 +57,19 @@
 
 .strap {
     color: #aaa;
-    margin-top: 5rem !important;
 }
 
 .topic {
     border-style: solid;
     border-radius: 30px;
     border-width: 2px;
+    margin-bottom: 5rem ;
     padding: 0.7rem;
     width: fit-content;
+}
+
+.topic-headline {
+    font-size: 4.25rem;
 }
 
 .topic-technology {
