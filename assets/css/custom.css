@@ -1,5 +1,12 @@
 /*custom ZELASTO wiki CSS goes here*/
 
+:root {
+    --technology: #6c90fc;
+    --ux: #fc507e;
+    --design: #ff6644;
+    --society: #ffba26;
+}
+
 .badge-technology {
     color: #fff;
     background-color: #6c90fc
