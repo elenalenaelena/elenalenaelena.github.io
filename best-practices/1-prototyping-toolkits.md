@@ -18,7 +18,7 @@ We describe prototyping toolkits on three technological layers that can lower th
 2. a cross-platform software layer for applications and
 3. tools for end-user programming
 
-- followed up by linked explanations on different possibilities to overcome the challenge, for example Physical Programming, 4D Printing, Rapid Prototyping, electromechanical/pneumatic/hydraulic actuation, smart materials
+- followed up by linked explanations on different possibilities to overcome the challenge, for example [Physical Programming](/glossary/), 4D Printing, Rapid Prototyping, electromechanical/pneumatic/hydraulic actuation, smart materials
 - (optional) decision helper
 
 ### Showcase

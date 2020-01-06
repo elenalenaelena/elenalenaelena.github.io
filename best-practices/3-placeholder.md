@@ -4,7 +4,7 @@ title: "__3 Placeholder"
 permalink: /3-placeholder/
 ---
 
-UX
+User Experience
 {: .topic .topic-ux}
 ### Best Practice
 {: .strap}
