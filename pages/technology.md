@@ -10,5 +10,5 @@ permalink: /technology/
 Best Practices on technical challenges of elastic displays cover prototyping toolkits, miniaturisation of devices etc. ...
 
 <hr class="panel-line">
-<h4 class="sub">Other Topics</h4>
+<h4 class="strap">Other Topics</h4>
 <p>render preview here</p>
