@@ -4,7 +4,7 @@ title: "_1 Prototyping Toolkits"
 permalink: /1-prototyping-toolkits/
 ---
 
-# _1 Prototyping Toolkits
+# __1 Prototyping Toolkits
 
 Prototyping elastic displays is challenging because it involves complex electronics as well as mechanical engineering and specific use contexts may require different actuation approaches. What are suitable tools to test complex elastic display applications in an early development state?
 
@@ -17,7 +17,7 @@ We describe prototyping toolkits on three technological layers that can lower th
 - followed up by linked explanations on different possibilities to overcome the challenge, for example Physical Programming, 4D Printing, Rapid Prototyping, electromechanical/pneumatic/hydraulic actuation, smart materials
 - (optional) decision helper
 
-## Showcase
+### Showcase
 Showcase of either existing own projects or research results, e.g. 3D Printing for the Rapid Prototyping of Structural Electronics <a href="https://ieeexplore.ieee.org/document/6766751" target="_blank">[DOI 10.1109/ACCESS.2014.2311810]</a>
 
 ## Workshop
