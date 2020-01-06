@@ -4,7 +4,7 @@ title: "Best Practice: Prototyping Toolkits"
 permalink: /1-prototyping-toolkits/
 ---
 
-technology
+Technology
 {: .topic .topic-technology}
 ### Best Practice
 {: .strap}
