@@ -88,3 +88,12 @@ h1 {
     color: #ffba26;
 }
 
+/*overwritings*/ 
+
+@media(min-width:768px) {
+    .td-main main {
+        padding-top: 2.5rem;
+    }
+}
+
+
