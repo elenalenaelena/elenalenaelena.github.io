@@ -55,14 +55,16 @@
     background-color: #ffde89
 }
 
-h4.strap {
+.strap {
     color: #aaa;
+    font-size: 1.35rem;
     margin-top: 0;
 }
 
 .topic {
     border-style: solid;
     border-radius: 30px;
+    border-width: medium;
     padding: 0.5rem;
     width: fit-content;
 }
