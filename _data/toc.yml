@@ -13,10 +13,19 @@
           url: "2-device-form-and-resolution"
     - title: "UX"
       url: "ux"
+      children:
+        - title: "__3 Placeholder"
+          url: "3-placeholder"
     - title: "Design"
       url: "design"
+      children:
+        - title: "__4 Placeholder"
+          url: "4-placeholder"
     - title: "Society"
       url: "society"
+      children:
+        - title: "__5 Placeholder"
+          url: "5-placeholder"
 
 - title: Glossary
   url: glossary
