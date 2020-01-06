@@ -61,16 +61,20 @@ h1 {
 
 .strap {
     color: #aaa;
+    
 }
 
 .topic {
     border-style: solid;
     border-radius: 30px;
     border-width: 2px;
-    cursor: pointer;
     margin-bottom: 5rem ;
     padding: 0.7rem;
     width: fit-content;
+}
+
+.topic:hover {
+    cursor: pointer;
 }
 
 .topic-technology {
