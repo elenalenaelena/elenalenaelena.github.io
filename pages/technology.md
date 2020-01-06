@@ -4,8 +4,8 @@ title: Technology
 permalink: /technology/
 ---
 
-<h4 class="strap">Topic</h4>
-# Technology
+<h4 class="strap">Overview</h4>
+: {:.topic} # Technology
 
 Best Practices on technical challenges of elastic displays cover prototyping toolkits, miniaturisation of devices etc. ...
 
