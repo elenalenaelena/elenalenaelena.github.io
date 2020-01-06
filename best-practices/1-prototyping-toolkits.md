@@ -1,6 +1,7 @@
 ---
 layout: best-practice
 title: "_1 Prototyping Toolkits"
+permalink: /1-prototyping-toolkits/
 ---
 
 # _1 Prototyping Toolkits
