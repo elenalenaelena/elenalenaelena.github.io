@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: best-practice
 title: "_2 Device Form and Resolution"
 permalink: /2-device-form-and-resolution/
 ---

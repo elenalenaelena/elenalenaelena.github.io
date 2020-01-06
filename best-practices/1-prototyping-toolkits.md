@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: best-practice
 title: "_1 Prototyping Toolkits"
 permalink: /1-prototyping-toolkits/
 ---
@@ -22,9 +22,6 @@ Showcase of either existing own projects or research results, e.g. 3D Printing f
 
 ## Workshop
 step-by-step workshop on one of the solutions above, e.g. Try Rapid Prototyping with 3D printing technologies
-
-### More Best Practices 
-Link next or similar Best Practices here
 
 <div class="section-index">
     <hr class="panel-line">

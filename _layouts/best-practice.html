@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{% if best-practice.badges %}{% for badge in best-practice.badges %}<span class="badge badge-{{ badge.type }}">{{ badge.tag }}</span>{% endfor %}{% endif %}
+{% if page.badges %}{% for badge in page.badges %}<span class="badge badge-{{ badge.type }}">{{ badge.tag }}</span>{% endfor %}{% endif %}
 {{ content }}
 <h3>More Best Practices</h3>
 <p>render preview here</p>
