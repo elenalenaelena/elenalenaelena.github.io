@@ -7,6 +7,10 @@
     --society: #ffba26;
 }
 
+h1 {
+    font-size: 3rem;
+}
+
 .badge-technology {
     color: #fff;
     background-color: #6c90fc
@@ -66,10 +70,6 @@
     margin-bottom: 5rem ;
     padding: 0.7rem;
     width: fit-content;
-}
-
-.topic-headline {
-    font-size: 4.25rem;
 }
 
 .topic-technology {
