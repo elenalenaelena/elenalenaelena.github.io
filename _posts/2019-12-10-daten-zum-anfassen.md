@@ -2,6 +2,15 @@
 title:  "Daten zum Anfassen"
 date:   2019-12-10 00:00:01
 categories: project
+badges:
+ - type: technology
+   tag: technology-badge
+ - type: ux
+   tag: ux-badge
+ - type: design
+   tag: design-badge
+ - type: society
+   tag: society-badge
 ---
 
 Das Forschungsprojekt ZELASTO erforscht die Darstellung von und Interaktion mit komplexen Daten auf elastischen Displays. Verschiedene Anwendungsfälle zeigen, wie wissenschaftliche Erkenntnisse zu neuartigen Displaytechnologien in produktiven Industriekontexten zum Einsatz kommen können.
