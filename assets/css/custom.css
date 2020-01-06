@@ -58,7 +58,6 @@
 .strap {
     color: #aaa;
     font-size: 1.35rem;
-    float: left;
     margin-top: 0;
 }
 
@@ -66,8 +65,6 @@
     border-style: solid;
     border-radius: 30px;
     border-width: 2px;
-    font-size: 0.8rem;
-    margin-left: 2rem;
     padding: 0.5rem;
     width: fit-content;
 }
