@@ -1,1 +1,49 @@
 /*custom ZELASTO wiki CSS goes here*/
+
+.badge-technology {
+    color: #fff;
+    background-color: #6c90fc
+}
+
+.badge-technology[href]:hover,
+.badge-technology[href]:focus {
+    color: #222;
+    text-decoration: none;
+    background-color: #bcccff
+}
+
+.badge-ux {
+    color: #fff;
+    background-color: #fc507e
+}
+
+.badge-ux[href]:hover,
+.badge-ux[href]:focus {
+    color: #222;
+    text-decoration: none;
+    background-color: #faa3bd
+}
+
+.badge-design {
+    color: #fff;
+    background-color: #ff6644
+}
+
+.badge-design[href]:hover,
+.badge-design[href]:focus {
+    color: #222;
+    text-decoration: none;
+    background-color: #ff9e86
+}
+
+.badge-society {
+    color: #fff;
+    background-color: #ffba26
+}
+
+.badge-society[href]:hover,
+.badge-society[href]:focus {
+    color: #222;
+    text-decoration: none;
+    background-color: #ffde89
+}
