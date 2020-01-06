@@ -1,10 +1,6 @@
 ---
 layout: best-practice
 title: "_1 Prototyping Toolkits"
-permalink: /1-prototyping-toolkits/
-badges:
- - type: technology
-   tag: technology-badge
 ---
 
 # _1 Prototyping Toolkits
