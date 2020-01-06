@@ -61,5 +61,7 @@ h4.strap {
 }
 
 .topic {
-    color: #f00;
+    border: 1px solid;
+    border-radius: 30px;
+    border-color: #6c90fc;
 }
