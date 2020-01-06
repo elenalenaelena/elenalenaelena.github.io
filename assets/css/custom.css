@@ -61,7 +61,8 @@ h4.strap {
 }
 
 .topic {
-    border: 1px solid;
+    border-style: solid;
     border-radius: 30px;
-    border-color: #6c90fc;
+    padding: 0.1rem;
+    width: fit-content;
 }
