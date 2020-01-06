@@ -1,6 +1,6 @@
 ---
 layout: best-practice
-title: "_1 Prototyping Toolkits"
+title: "Best Practice: Prototyping Toolkits"
 permalink: /1-prototyping-toolkits/
 ---
 
