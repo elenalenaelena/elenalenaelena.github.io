@@ -6,8 +6,6 @@ permalink: /1-prototyping-toolkits/
 
 technology
 {: .topic .topic-technology}
-### Best Practice
-{: .strap}
 
 # __1 Prototyping Toolkits
 
