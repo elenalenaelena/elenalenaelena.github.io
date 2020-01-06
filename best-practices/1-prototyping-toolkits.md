@@ -10,8 +10,7 @@ technology
 {: .strap}
 
 # __1 Prototyping Toolkits
-
-Prototyping elastic displays is challenging because it involves complex electronics as well as mechanical engineering and specific use contexts may require different actuation approaches. What are suitable tools to test complex elastic display applications in an early development state?
+Prototyping elastic displays is challenging because it involves complex electronics as well as mechanical engineering. Specific use contexts may require different actuation approaches. What are suitable tools to test complex elastic display applications in an early development state?
 
 ### Solutions
 We describe prototyping toolkits on three technological layers that can lower the barrier to implementation of classic interfaces: 
