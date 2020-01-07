@@ -6,7 +6,7 @@ permalink: /society/
 
 <h4 class="strap">Topic</h4>
 # Society
-{: .topic-society .topic-headline}
+{: .topic-Society .topic-headline}
 
 ### Best Practices
 - [__4 Placeholder](/4-placeholder/)

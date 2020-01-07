@@ -6,7 +6,7 @@ permalink: /ux/
 
 <h4 class="strap">Topic</h4>
 # User Experience
-{: .topic-ux .topic-headline}
+{: .topic-UserExperience .topic-headline}
 
 ### Best Practices
 - [__3 Placeholder](/3-placeholder/)

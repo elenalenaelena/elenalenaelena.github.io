@@ -8,7 +8,7 @@ permalink: /technology/
 
 <h4 class="strap">Topic</h4>
 # Technology
-{: .topic-technology .topic-headline}
+{: .topic-Technology .topic-headline}
 
 Introduction on technical challenges of elastic displays cover prototyping toolkits, miniaturisation of devices etc. ...
 

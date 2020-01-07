@@ -6,7 +6,7 @@ permalink: /design/
 
 <h4 class="strap">Topic</h4>
 # Design
-{: .topic-design .topic-headline}
+{: .topic-Design .topic-headline}
 
 ### Best Practices
 - [__4 Placeholder](/4-placeholder/)
