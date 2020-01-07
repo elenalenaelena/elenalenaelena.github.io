@@ -102,5 +102,9 @@ li.topic::before {
     color: #ffba26 !important;
 }
 
+.breadcrumb-item+.breadcrumb-item::before {
+    content: ">"
+}
+
 
 
