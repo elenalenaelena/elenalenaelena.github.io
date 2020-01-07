@@ -79,8 +79,6 @@ li.topic {
 }
 
 li.topic::before {
-    padding: 0;
-    margin-left: -3em;
     content:">";
 }
 
