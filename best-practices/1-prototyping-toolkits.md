@@ -5,19 +5,7 @@ category: "Technology"
 permalink: /1-prototyping-toolkits/
 ---
 
-<nav aria-label="breadcrumb" class="d-none d-md-block d-print-none">
-    <ol class="breadcrumb spb-1">
-    <li class="breadcrumb-item active" aria-current="page">
-        <a href="/best-practices/">Best Practices</a>
-    </li>
-     <li class="breadcrumb-item active topic topic-{{ page.category }}" aria-current="page">
-        <a href="/{{ page.category }}/">{{ page.category }}</a>
-    </li>
-    <li class="breadcrumb-item active" aria-current="page">
-         <a href="{{ page.url }}">{{ page.title }}</a>
-    </li>
-     </ol>
-</nav>
+{% include breadcrumb-best-practice.html %}
 
 # __1 Prototyping Toolkits
 Prototyping elastic displays is challenging because it involves complex electronics as well as mechanical engineering. Specific use contexts may require different actuation approaches. What are suitable tools to test complex elastic display applications in an early development state?
