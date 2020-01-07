@@ -9,10 +9,9 @@ permalink: /1-prototyping-toolkits/
     <li class="breadcrumb-item active" aria-current="page">
         <a href="/best-practices/">Best Practices</a>
     </li>
-     <li class="breadcrumb-item active" aria-current="page">
+     <li class="breadcrumb-item active .topic .topic-technology" aria-current="page">
         <a href="/{{ page.category }}/">{{ page.category }}</a>
     </li>
-    {: .topic .topic-technology}
     <li class="breadcrumb-item active" aria-current="page">
          <a href="{{ page.url }}">{{ page.title }}</a>
     </li>
