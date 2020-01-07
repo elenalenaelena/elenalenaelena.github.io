@@ -1,6 +1,7 @@
 ---
 layout: best-practice
 title: "Best Practice: Prototyping Toolkits"
+category: "technology"
 permalink: /1-prototyping-toolkits/
 ---
 
@@ -9,7 +10,7 @@ permalink: /1-prototyping-toolkits/
     <li class="breadcrumb-item active" aria-current="page">
         <a href="/best-practices/">Best Practices</a>
     </li>
-     <li class="breadcrumb-item active .topic .topic-technology" aria-current="page">
+     <li class="breadcrumb-item active .topic .topic-{{ page.category }}" aria-current="page">
         <a href="/{{ page.category }}/">{{ page.category }}</a>
     </li>
     <li class="breadcrumb-item active" aria-current="page">
