@@ -11,16 +11,16 @@ Best Practices cover current challenges in research on elastic displays in the 4
 ### Topics
 
 Technology
-{: .topic .topic-technology}
+{: .topic .topic-Technology}
 
 User Experience
-{: .topic .topic-ux}
+{: .topic .topic-UserExperience}
 
 Design
-{: .topic .topic-design}
+{: .topic .topic-Design}
 
 Society
-{: .topic .topic-society}
+{: .topic .topic-Society}
 
 <div class="section-index">
     <hr class="panel-line">
