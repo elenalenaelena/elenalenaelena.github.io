@@ -75,7 +75,7 @@ h1 {
 }
 
 li.topic {
-    margin: -0.7em 1em;
+    margin: -0.7em 0.7em;
 }
 
 li.topic::before {
@@ -100,6 +100,13 @@ li.topic::before {
 
 .topic-Society {
     color: #ffba26 !important;
+}
+
+.breadcrumb-item+.breadcrumb-item::before {
+    padding-right: 0rem !important;
+}
+.breadcrumb-item{
+    margin-right: 0.7rem;
 }
 
 
