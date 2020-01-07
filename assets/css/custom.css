@@ -86,24 +86,20 @@ li.topic::before {
     cursor: pointer;
 }
 
-.topic-technology {
+.topic-Technology {
     color: #6c90fc !important;
 }
 
-.topic-ux {
+.topic-UserExperience {
     color: #fc507e !important;
 }
 
-.topic-design {
+.topic-Design {
     color: #ff6644 !important;
 }
 
-.topic-society {
+.topic-Society {
     color: #ffba26 !important;
-}
-
-.breadcrumb-item+.breadcrumb-item::before {
-    content: ">" !important;
 }
 
 

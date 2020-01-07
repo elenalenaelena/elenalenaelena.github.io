@@ -4,6 +4,8 @@ title: Technology
 permalink: /technology/
 ---
 
+{% include breadcrumb-topic.html %}
+
 <h4 class="strap">Topic</h4>
 # Technology
 {: .topic-technology .topic-headline}
