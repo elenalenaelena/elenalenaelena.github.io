@@ -74,24 +74,34 @@ h1 {
     width: fit-content;
 }
 
+li.topic {
+    margin: -0.7em 1em;
+}
+
+li.topic::before {
+    padding: 0;
+    margin-left: -3em;
+    content:">";
+}
+
 .topic:hover {
     cursor: pointer;
 }
 
 .topic-technology {
-    color: #6c90fc;
+    color: #6c90fc !important;
 }
 
 .topic-ux {
-    color: #fc507e;
+    color: #fc507e !important;
 }
 
 .topic-design {
-    color: #ff6644;
+    color: #ff6644 !important;
 }
 
 .topic-society {
-    color: #ffba26;
+    color: #ffba26 !important;
 }
 
 

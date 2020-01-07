@@ -1,7 +1,7 @@
 ---
 layout: best-practice
 title: "Prototyping Toolkits"
-category: "Technology"
+category: "technology"
 permalink: /1-prototyping-toolkits/
 ---
 
