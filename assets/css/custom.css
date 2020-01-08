@@ -12,7 +12,7 @@
 }
 
 .topic:hover, .topic:hover a{
-    filter: brightness(80%);
+    filter: brightness(120%);
 }
 
 li.topic {
