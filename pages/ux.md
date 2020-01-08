@@ -8,7 +8,7 @@ permalink: /ux/
 
 <h4 class="strap">Topic</h4>
 # User Experience
-{: .topic-UserExperience .topic-headline}
+{: .topic-ux .topic-headline}
 
 ### Best Practices
 - [__3 Placeholder](/3-placeholder/)
@@ -22,10 +22,10 @@ weighted word cloud of all glossary entries tagged with this topic
 <h4>Other Topics</h4>
 
 <a href="/technology/">Technology</a>
-{: .topic .topic-Technology}
+{: .topic .topic-technology}
 
 <a href="/design/">Design</a>
-{: .topic .topic-Design}
+{: .topic .topic-design}
 
 <a href="/society/">Society</a>
-{: .topic .topic-Society}
+{: .topic .topic-society}

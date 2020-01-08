@@ -12,7 +12,7 @@
 }
 
 .topic:hover, .topic:hover a{
-    filter: brightness(120%);
+    filter: brightness(90%);
 }
 
 li.topic {
@@ -27,19 +27,19 @@ li.topic::before {
     cursor: pointer;
 }
 
-.topic-Technology {
+.topic-technology {
     color: #6c90fc !important;
 }
 
-.topic-UserExperience {
+.topic-ux {
     color: #fc507e !important;
 }
 
-.topic-Design {
+.topic-design {
     color: #ff6644 !important;
 }
 
-.topic-Society {
+.topic-society {
     color: #ffba26 !important;
 }
 

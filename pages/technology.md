@@ -8,7 +8,7 @@ permalink: /technology/
 
 <h4 class="strap">Topic</h4>
 # Technology
-{: .topic-Technology .topic-headline}
+{: .topic-technology .topic-headline}
 
 Introduction on technical challenges of elastic displays in multiple areas. Technical best practices cover prototyping toolkits, miniaturisation of devices, I/O modalities and non-functional requirements.
 
@@ -24,10 +24,10 @@ weighted word cloud of all glossary entries tagged with this topic
 <h4>Other Topics</h4>
 
 <a href="/ux/">User Experience</a>
-{: .topic .topic-UserExperience}
+{: .topic .topic-ux}
 
 <a href="/design/">Design</a>
-{: .topic .topic-Design}
+{: .topic .topic-design}
 
 <a href="/society/">Society</a>
-{: .topic .topic-Society}
+{: .topic .topic-society}
