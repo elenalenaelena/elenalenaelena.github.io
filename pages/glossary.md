@@ -4,7 +4,7 @@ title: Glossary
 permalink: /glossary/
 ---
 
-# Glossary
+# <i class="fa fa-book-open"></i> Glossary
 
 Find detailed explanation about vocabulary and concepts of elastic displays.
 
