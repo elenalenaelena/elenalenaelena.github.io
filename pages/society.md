@@ -9,8 +9,8 @@ permalink: /society/
 {: .topic-Society .topic-headline}
 
 ### Best Practices
-__[5 Placeholder](/5-placeholder/)\
-__[5 Placeholder](/5-placeholder/)
+- [5 Placeholder](/5-placeholder/){: .underscore}
+- [5 Placeholder](/5-placeholder/){: .underscore}
 
 ### Terms and Concepts
 

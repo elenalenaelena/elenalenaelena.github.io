@@ -9,8 +9,8 @@ permalink: /ux/
 {: .topic-UserExperience .topic-headline}
 
 ### Best Practices
-__[3 Placeholder](/3-placeholder/)\
-__[3 Placeholder](/3-placeholder/)
+- [3 Placeholder](/3-placeholder/){: .underscore}
+- [3 Placeholder](/3-placeholder/){: .underscore}
 
 ### Terms and Concepts
 

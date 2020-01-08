@@ -9,8 +9,8 @@ permalink: /design/
 {: .topic-Design .topic-headline}
 
 ### Best Practices
-__[4 Placeholder](/4-placeholder/)\
-__[4 Placeholder](/4-placeholder/)
+- [4 Placeholder](/4-placeholder/){: .underscore}
+- [4 Placeholder](/4-placeholder/){: .underscore}
 
 ### Terms and Concepts
 

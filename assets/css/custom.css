@@ -114,11 +114,16 @@ li.topic::before {
     background-color: #ffde89
 }
 
-h1 {
-    font-size: 3rem;
-}
+h1 {  font-size: 3rem; }
 
-ul { list-style-type:none;}
+ul { list-style-type:none; }
+
+/*to apply add .underscore class to list item in markdown*/
+ul li.underscore::before, ul.underscore li::before {
+    content:"__";
+    float: left;
+    padding-left: 0;
+} 
 
 
 
