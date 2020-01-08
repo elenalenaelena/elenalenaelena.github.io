@@ -75,7 +75,7 @@ h1 {
 }
 
 li.topic {
-    margin: -0.7em 0.7em;
+    margin: -0.7em 0.5em;
 }
 
 li.topic::before {
@@ -106,8 +106,11 @@ li.topic::before {
     padding-right: 0rem !important;
 }
 .breadcrumb-item{
-    margin-right: 0.7rem;
+    margin-right: 0.5em;
 }
+
+ul.underscore { list-style-type:none;}
+ol.underscore, ul.underscore li:before { content: "__"; }
 
 
 
