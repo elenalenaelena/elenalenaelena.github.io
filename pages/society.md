@@ -4,13 +4,15 @@ title: Society
 permalink: /society/
 ---
 
+{% include breadcrumb-topic.html %}
+
 <h4 class="strap">Topic</h4>
 # Society
 {: .topic-Society .topic-headline}
 
 ### Best Practices
-- [5 Placeholder](/5-placeholder/){: .underscore}
-- [5 Placeholder](/5-placeholder/){: .underscore}
+- [__5 Placeholder](/5-placeholder/)
+- [__5 Placeholder](/5-placeholder/)
 
 ### Terms and Concepts
 

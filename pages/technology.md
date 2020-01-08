@@ -13,8 +13,8 @@ permalink: /technology/
 Introduction on technical challenges of elastic displays in multiple areas. Technical best practices cover prototyping toolkits, miniaturisation of devices, I/O modalities and non-functional requirements.
 
 ### Best Practices
-- [1 Prototyping Toolkits](/1-prototyping-toolkits/){: .underscore}
-- [2 Device Form and Resolution](/2-device-form-and-resolution/){: .underscore}
+- [__1 Prototyping Toolkits](/1-prototyping-toolkits/)
+- [__2 Device Form and Resolution](/2-device-form-and-resolution/)
 
 ### Terms and Concepts
 

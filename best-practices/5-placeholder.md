@@ -1,12 +1,14 @@
 ---
 layout: best-practice
 title: "__5 Placeholder"
+category: "Society"
 permalink: /5-placeholder/
 ---
 
-Society
-{: .topic .topic-society}
-### Best Practice
-{: .strap}
-
 # __5 Placeholder
+
+### Solutions
+
+### Showcase
+
+## Workshop
