@@ -30,14 +30,40 @@
 - title: Glossary
   url: glossary
   links:
-    - title: "A"
-      url: "docs/a"
-    - title: "B"
-      url: "docs/b"
-      children:
-        - title: Braille Display
-          url: "docs/b/braille-display"
-
+    - title: "4D Printing"
+      url: "glossary/4d-printing"
+    - title: "Actuated Display"
+      url: "glossary/actuated-display"    
+    - title: "Data Physicalazation"
+      url: "glossary/data-physicalazation"
+    - title: "Elastic Display"
+      url: "glossary/elastic-display"
+    - title: "Embodiment"
+      url: "glossary/embodiment"
+    - title: "End-User Programming"
+      url: "glossary/end-user-programming"    
+    - title: "Data Physicalazation"
+      url: "glossary/data-physicalazation"
+    - title: "Flexible Display"
+      url: "glossary/flexible-display"
+    - title: "Gravibles"
+      url: "glossary/gravibles"
+    - title: "Physical Computing"
+      url: "glossary/physical-computing"    
+    - title: "Physical Programming"
+      url: "glossary/physical-programming"  
+    - title: "Rapid Prototyping"
+      url: "glossary/rapid-prototyping"
+    - title: "Shape-Changing Interface"
+      url: "glossary/shape-changing-interface"
+    - title: "Smart Materials"
+      url: "glossary/smart-materials"    
+    - title: "Tangible User Interface"
+      url: "glossary/tangible-user-interface"
+    - title: "Tangibles"
+      url: "glossary/Tangibles"
+    - title: "Zoomable User Interface"
+      url: "glossary/zoomable-user-interface"
 - title: News
   url: news
 
