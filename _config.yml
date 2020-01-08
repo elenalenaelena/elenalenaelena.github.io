@@ -71,7 +71,7 @@ collections:
     permalink: /:collection/:path
 
 # Defaults
-defaults:  -
+defaults:  
   - scope:
       path: "_glossary"
       type: "glossary"
