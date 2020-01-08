@@ -1,4 +1,4 @@
-- title: About ZELASTO
+- title: About
   url: about
 
 - title: Best Practices
@@ -26,6 +26,12 @@
       children:
         - title: "__5 Placeholder"
           url: "5-placeholder"
+
+- title: Glossary
+  url: glossary
+
+- title: Resources
+  url: resources
 
 - title: News
   url: news
