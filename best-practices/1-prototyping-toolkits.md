@@ -5,7 +5,7 @@ category: "Technology"
 permalink: /1-prototyping-toolkits/
 ---
 # __1 Prototyping Toolkits
-Prototyping [Elastic Displays](/glossary/) is challenging because it involves complex electronics as well as mechanical engineering. Specific use contexts may require different [actuation](/glossary/) approaches. What are suitable tools to test complex Elastic Display applications in an early development state?
+Prototyping [Elastic Displays](/glossary/elastic-display) is challenging because it involves complex electronics as well as mechanical engineering. Specific use contexts may require different [actuation](/glossary/) approaches. What are suitable tools to test complex Elastic Display applications in an early development state?
 
 ### Solutions
 We describe [prototyping toolkits](/glossary/) on three technological layers that can lower the barrier to implementation of classic interfaces: 
@@ -21,3 +21,4 @@ Showcase of either existing own projects or research results, e.g. [3D Printing]
 
 ## Workshop
 step-by-step workshop on one of the solutions above, e.g. Try Rapid Prototyping with 3D printing technologies
+

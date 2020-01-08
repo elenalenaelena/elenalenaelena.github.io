@@ -1,6 +1,6 @@
 ---
 title: Physical Programming
-description: Physical Programming in ZELASTO Wiki
+description: Physical Programming in ZELASTO Knowledge Base
 ---
 
 # Definition
