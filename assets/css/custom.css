@@ -11,8 +11,8 @@
     color: inherit;
 }
 
-.topic:hover a{
-    filter: brightness(150%);
+.topic:hover, .topic:hover a{
+    filter: brightness(80%);
 }
 
 li.topic {

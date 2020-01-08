@@ -10,16 +10,16 @@ Best Practices cover current challenges in research on elastic displays in the 4
 
 ### Topics
 
- <a href="/technology}/">Technology</a>
+ <a href="/technology/">Technology</a>
 {: .topic .topic-Technology}
 
-<a href="/ux}/">User Experience</a>
+<a href="/ux/">User Experience</a>
 {: .topic .topic-UserExperience}
 
-<a href="/design}/">Design</a>
+<a href="/design/">Design</a>
 {: .topic .topic-Design}
 
-<a href="/society}/">Society</a>
+<a href="/society/">Society</a>
 {: .topic .topic-Society}
 
 <div class="section-index">
