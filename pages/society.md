@@ -16,7 +16,7 @@ permalink: /society/
 
 ### Terms and Concepts
 
-weighted word cloud of all glossary entries tagged with this topic
+weighted word cloud for {{page.title}}
 
 <hr class="panel-line">
 <h4>Other Topics</h4>
