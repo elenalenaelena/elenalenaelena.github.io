@@ -66,34 +66,13 @@ exclude: [_site, CHANGELOG.md, LICENSE, README.md, vendor]
 
 # Collections
 collections:
-  docs:
-    output: true
-    permalink: /:collection/:path
   glossary:
     output: true
     permalink: /:collection/:path
 
 # Defaults
-defaults:
+defaults:  -
   - scope:
-      path: "_docs"
-      type: "docs"
-    values:
-      layout: page
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
-  -
-    scope:
-      path: "posts"
-      type: "posts"
-    values:
-      layout: "post"
-  -
-    scope:
       path: "_glossary"
       type: "glossary"
     values:
