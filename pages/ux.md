@@ -9,9 +9,10 @@ permalink: /ux/
 {: .topic-UserExperience .topic-headline}
 
 ### Best Practices
-- [__3 Placeholder](/3-placeholder/)
+__[3 Placeholder](/3-placeholder/)\
+__[3 Placeholder](/3-placeholder/)
 
-### Terms and Concepts in {{ page.title }}
+### Terms and Concepts
 
 weighted word cloud of all glossary entries tagged with this topic
 

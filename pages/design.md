@@ -9,9 +9,10 @@ permalink: /design/
 {: .topic-Design .topic-headline}
 
 ### Best Practices
-- [__4 Placeholder](/4-placeholder/)
+__[4 Placeholder](/4-placeholder/)\
+__[4 Placeholder](/4-placeholder/)
 
-### Terms and Concepts in {{ page.title }}
+### Terms and Concepts
 
 weighted word cloud of all glossary entries tagged with this topic
 
