@@ -3,7 +3,7 @@
     <li class="breadcrumb-item active" aria-current="page">
         <a href="/best-practices/">Best Practices</a>
     </li>/
-     <li class="breadcrumb-item active topic topic-{{ page.category }}" aria-current="page">
+     <li class="breadcrumb-item active topic topic-{{ page.category | downcase  | strip | replace:'user experience', 'ux' }}" aria-current="page">
         <a href="/{{ page.category | downcase | strip | replace:'user experience', 'ux'}}/">{{ page.category | replace: 'UX', 'User Experience' | replace: 'ux', 'User Experience'| capitalize }}</a>
     </li>
     <li class="breadcrumb-item active" aria-current="page">
