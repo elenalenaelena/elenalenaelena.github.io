@@ -1,6 +1,6 @@
 ---
-title: Data Physicalazation
-description: Data Physicalazation in ZELASTO Knowledge Base
+title: Data Physicalization
+description: Data Physicalization in ZELASTO Knowledge Base
 ---
 
 # Definition
