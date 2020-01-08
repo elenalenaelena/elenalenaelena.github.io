@@ -7,8 +7,63 @@
     --society: #ffba26;
 }
 
-h1 {
-    font-size: 3rem;
+a.topic {
+    color: inherit;
+}
+
+a.topic:hover {
+    filter: brightness(150%);
+}
+
+li.topic {
+    margin: -0.7em 0.5em;
+}
+
+li.topic::before {
+    display: none !important;
+}
+
+.topic:hover {
+    cursor: pointer;
+}
+
+.topic-Technology {
+    color: #6c90fc !important;
+}
+
+.topic-UserExperience {
+    color: #fc507e !important;
+}
+
+.topic-Design {
+    color: #ff6644 !important;
+}
+
+.topic-Society {
+    color: #ffba26 !important;
+}
+
+.strap {
+    color: #aaa;    
+}
+
+.topic {
+    border-style: solid;
+    border-radius: 30px;
+    border-width: 2px;
+    display: inline-block;
+    margin-right: 1em;
+    padding: 0.7rem;
+    width: fit-content;
+}
+
+/*** OVERWRITE ***/
+
+.breadcrumb-item+.breadcrumb-item::before {
+    padding-right: 0rem !important;
+}
+.breadcrumb-item{
+    margin-right: 0.5em;
 }
 
 .badge-technology {
@@ -59,54 +114,8 @@ h1 {
     background-color: #ffde89
 }
 
-.strap {
-    color: #aaa;
-    
-}
-
-.topic {
-    border-style: solid;
-    border-radius: 30px;
-    border-width: 2px;
-    display: inline-block;
-    margin-right: 1em;
-    padding: 0.7rem;
-    width: fit-content;
-}
-
-li.topic {
-    margin: -0.7em 0.5em;
-}
-
-li.topic::before {
-    display: none !important;
-}
-
-.topic:hover {
-    cursor: pointer;
-}
-
-.topic-Technology {
-    color: #6c90fc !important;
-}
-
-.topic-UserExperience {
-    color: #fc507e !important;
-}
-
-.topic-Design {
-    color: #ff6644 !important;
-}
-
-.topic-Society {
-    color: #ffba26 !important;
-}
-
-.breadcrumb-item+.breadcrumb-item::before {
-    padding-right: 0rem !important;
-}
-.breadcrumb-item{
-    margin-right: 0.5em;
+h1 {
+    font-size: 3rem;
 }
 
 ul.underscore { list-style-type:none;}
