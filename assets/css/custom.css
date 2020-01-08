@@ -7,11 +7,11 @@
     --society: #ffba26;
 }
 
-a.topic {
+.topic a {
     color: inherit;
 }
 
-a.topic:hover {
+.topic:hover a{
     filter: brightness(150%);
 }
 
