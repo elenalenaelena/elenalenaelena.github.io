@@ -1,7 +1,7 @@
 ---
 layout: best-practice
 title: "__3 Placeholder"
-category: "UserExperience"
+category: "UX"
 permalink: /3-placeholder/
 ---
 
