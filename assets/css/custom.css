@@ -118,8 +118,11 @@ h1 {
     font-size: 3rem;
 }
 
-ul.underscore { list-style-type:none;}
-ol.underscore, ul.underscore li:before { content: "__"; }
+ul { list-style-type:none;}
+ol, ul li:before { 
+    content: "__"; 
+    padding-left: 0;
+}
 
 
 
