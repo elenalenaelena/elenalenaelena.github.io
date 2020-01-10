@@ -66,16 +66,11 @@ exclude: [_site, CHANGELOG.md, LICENSE, README.md, vendor]
 
 # Collections
 collections:
-  glossary:
+  - terms:
     output: true
-    permalink: /:collection/:path
-
-# Defaults
-defaults:  
-  - scope:
-      path: "_glossary"
-      type: "glossary"
-    values:
-      layout: "page"
+    permalink: /terms/:path
+  - concepts:
+    output: true
+    permalink: /concepts/:path
 
 remote_theme: "vsoch/docsy-jekyll"

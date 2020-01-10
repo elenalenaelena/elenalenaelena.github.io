@@ -8,6 +8,10 @@ permalink: /glossary/
 
 Find detailed explanation about vocabulary and concepts of elastic displays.
 
+{% for term in site.terms %} 
+    <p>{{ term.title }}</p>  
+{% endfor %}
+
 <div class="section-index">
     <hr class="panel-line">
     {% for post in site.docs  %}        
