@@ -17,9 +17,11 @@ Introduction on technical challenges of elastic displays in multiple areas. Tech
 - [__2 Device Form and Resolution](/2-device-form-and-resolution/)
 
 <ul>
-{% for best-practice in site.best-practices | where:'category', 'Technology' %}
-<li><span>{{ best-practice.title }}</span></li>
-{% endfor %}
+  {% for best-practice in site.categories.technology %}
+    {% if best-practice.url %}
+        <li><a href="{{ best-practice.url }}">{{ best-practice.title }}</a></li>
+    {% endif %}
+  {% endfor %}
 </ul>
 
 ### Terms and Concepts
