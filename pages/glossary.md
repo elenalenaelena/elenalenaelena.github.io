@@ -8,12 +8,13 @@ permalink: /glossary/
 
 Find detailed explanation about vocabulary and concepts of elastic displays.
 
-
+### Terms
 <ul>{% for term in site.terms %} 
     <li>{{ term.title }}</li>  
 {% endfor %}
 </ul>
 
+### Concepts
 <ul>{% for concept in site.concepts %} 
     <li>{{ concept.title }}</li>  
 {% endfor %}

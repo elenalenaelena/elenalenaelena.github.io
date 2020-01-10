@@ -34,10 +34,10 @@ exclude: [_site, CHANGELOG.md, LICENSE, README.md, vendor]
 
 # Collections
 collections:
-  - terms:
+  terms:
     output: true
     permalink: /:collection/:title
-  - concepts:
+  concepts:
     output: true
     permalink: /:collection/:title
 
