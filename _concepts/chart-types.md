@@ -1,0 +1,6 @@
+---
+title: Chart Types
+---
+
+# Definition
+...
