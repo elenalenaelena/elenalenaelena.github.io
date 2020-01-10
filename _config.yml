@@ -40,5 +40,8 @@ collections:
   concepts:
     output: true
     permalink: /:collection/:title
+  best-practices:
+    output: true
+    permalink /:collection:/:title
 
 remote_theme: "vsoch/docsy-jekyll"
