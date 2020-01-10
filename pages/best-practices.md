@@ -10,28 +10,15 @@ Best Practices cover current challenges in research on elastic displays in the 4
 
 ### Topics
 
-<a href="/technology/">Technology</a>
-{: .topic .topic-technology}
-
-<a href="/ux/">User Experience</a>
-{: .topic .topic-ux}
-
-<a href="/design/">Design</a>
-{: .topic .topic-design}
-
-<a href="/society/">Society</a>
-{: .topic .topic-society}
-
 {% assign groups = site.best-practices | group_by: "category" | sort: "name" %}
 
 {% for group in groups %}
-<a href="/{{ group.name | downcase | strip | replace:'user experience', 'ux' }}/">{{ group.name }}</a>
+<a href="/{{ group.name | downcase | strip | replace:'user experience', 'ux' }}/">{{ group.name | replace:'ux', 'User Experience'}}</a>
 {: .topic .topic-{{ group.name | downcase | strip | replace:'user experience', 'ux'}}}
     <ul>{% for item in group.items %}
-        <li><a href="item-url">{{item.title}}</a></li>
+        <li><a href="{{ item.url }}">{{item.title}}</a></li>
     {%endfor%}</ul>
 {%endfor%}
-
 
 <div class="section-index">
     <hr class="panel-line">
