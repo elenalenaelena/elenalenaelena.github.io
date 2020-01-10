@@ -22,12 +22,6 @@ Best Practices cover current challenges in research on elastic displays in the 4
 <a href="/society/">Society</a>
 {: .topic .topic-society}
 
-<ul>
-{% for best-practice in site.best-practices.category.Technology %}
- <li><span>{{ best-practice.title }}</span></li>
-{% endfor %}
-</ul>
-
 <div class="section-index">
     <hr class="panel-line">
     {% for post in site.docs  %}        

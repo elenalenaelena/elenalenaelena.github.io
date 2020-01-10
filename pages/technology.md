@@ -16,6 +16,12 @@ Introduction on technical challenges of elastic displays in multiple areas. Tech
 - [__1 Prototyping Toolkits](/1-prototyping-toolkits/)
 - [__2 Device Form and Resolution](/2-device-form-and-resolution/)
 
+<ul>
+{% for best-practice in site.best-practices | where:'category', 'Technology' %}
+<li><span>{{ best-practice.title }}</span></li>
+{% endfor %}
+</ul>
+
 ### Terms and Concepts
 
 weighted word cloud for {{page.title}}
