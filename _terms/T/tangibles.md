@@ -4,5 +4,4 @@ title: Tangibles
 description: Tangibles in ZELASTO Knowledge Base
 ---
 
-# Definition
 ...
