@@ -10,8 +10,14 @@ Best Practices cover current challenges in research on elastic displays in the 4
 
 ### Topics
 
+<div>
 <a href="/technology/">Technology</a>
 {: .topic .topic-technology}
+
+{% for best-practice in site.best-practices.categories.Technology %}
+ <li><span>{{ best-practice.title }}</span></li>
+{% endfor %}
+</div>
 
 <a href="/ux/">User Experience</a>
 {: .topic .topic-ux}
