@@ -22,6 +22,16 @@ Best Practices cover current challenges in research on elastic displays in the 4
 <a href="/society/">Society</a>
 {: .topic .topic-society}
 
+{% assign groups = site.best-practices | group_by: "category" | sort: "name" %}
+
+{% for group in groups %}
+    <h3>{{ group.name }}</h3>
+    {% for item in group.items %}
+        {{item.title}}
+    {%endfor%}
+{%endfor%}
+
+
 <div class="section-index">
     <hr class="panel-line">
     {% for post in site.docs  %}        
