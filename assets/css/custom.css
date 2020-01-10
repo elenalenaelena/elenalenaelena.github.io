@@ -9,6 +9,7 @@
 
 .topic a {
     color: inherit;
+    font-weight: bold;
 }
 
 .topic:hover, .topic:hover a{
