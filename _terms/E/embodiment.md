@@ -1,4 +1,5 @@
 ---
+layout: term
 title: Embodiment
 description: Embodiment in ZELASTO Knowledge Base
 ---
