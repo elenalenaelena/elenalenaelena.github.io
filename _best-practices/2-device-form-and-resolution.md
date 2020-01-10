@@ -1,6 +1,6 @@
 ---
 layout: best-practice
-title: "_2 Device Form and Resolution"
+title: "__2 Device Form and Resolution"
 category: "Technology"
 permalink: /2-device-form-and-resolution/
 ---
