@@ -10,13 +10,13 @@ Find detailed explanation about vocabulary and concepts of elastic displays.
 
 ### Terms
 <ul>{% for term in site.terms %} 
-    <li>{{ term.title }}</li>  
+    <li><a href="{{ term.url }}" alt="{{ term.description }}">{{ term.title }}</a></li>  
 {% endfor %}
 </ul>
 
 ### Concepts
 <ul>{% for concept in site.concepts %} 
-    <li>{{ concept.title }}</li>  
+    <li><a href="{{ concept.url }}" alt="{{ concept.description }}">{{ concept.title }}</a></li>  
 {% endfor %}
 </ul>
 
