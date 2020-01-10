@@ -8,9 +8,6 @@ permalink: /glossary/
 
 Find detailed explanation about vocabulary and concepts of elastic displays.
 
-{% for c in site.collection %} 
-    <p>{{ c.label }}</p>  
-{% endfor %}
 
 {% for term in site.terms %} 
     <p>{{ term.title }}</p>  

@@ -34,8 +34,11 @@ exclude: [_site, CHANGELOG.md, LICENSE, README.md, vendor]
 
 # Collections
 collections:
-  terms:
+  - terms:
     output: true
     permalink: /:collection/:title
-    
+  - concepts:
+    output: true
+    permalink: /:collection/:title
+
 remote_theme: "vsoch/docsy-jekyll"

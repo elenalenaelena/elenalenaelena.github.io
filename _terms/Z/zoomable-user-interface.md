@@ -1,6 +1,6 @@
 ---
-title: Zoomlable User Interface
-description: Zoomlable User Interface in ZELASTO Knowledge Base
+title: Zoomable User Interface
+description: Zoomable User Interface in ZELASTO Knowledge Base
 ---
 
 # Definition
