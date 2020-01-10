@@ -15,9 +15,13 @@ Best Practices cover current challenges in research on elastic displays in the 4
 {% for group in groups %}
 <a href="/{{ group.name | downcase | strip | replace:'user experience', 'ux' }}/">{{ group.name | replace:'ux', 'User Experience'}}</a>
 {: .topic .topic-{{ group.name | downcase | strip | replace:'user experience', 'ux'}}}
-    <ul>{% for item in group.items %}
-        <li><a href="{{ item.url }}">{{item.title}}</a></li>
-    {%endfor%}</ul>
+
+<ul>
+{% for item in group.items %}
+<li><a href="{{ item.url }}">{{ item.title }}</a></li>
+{%endfor%}
+</ul>
+
 {%endfor%}
 
 <div class="section-index">
