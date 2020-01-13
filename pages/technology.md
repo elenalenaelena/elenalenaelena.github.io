@@ -14,11 +14,12 @@ Introduction on technical challenges of elastic displays in multiple areas. Tech
 
 ### Best Practices
 
-{% assign groups = site.best-practices | group_by: "category" | downcase | strip | replace:'user experience', 'ux' %}
+
+{% assign best-practices = site.best-practices | where: "category", "Technology" %}
 
 <ul>
-{% for best.practice in site.best-practices | where: best-practice.categrory, 'Technology' %}
-<li><a href="{{ vbest-practice.url }}">{{ best-practice.title }}</a></li>
+{% for item in best-practices %}
+  <li><a href="{{ item.url }}">{{ item.title }}</a></li>
 {% endfor %}
 </ul>
 
