@@ -10,6 +10,8 @@ permalink: /ux/
 # User Experience
 {: .topic-ux .topic-headline}
 
+This section describes research challenges concerning users’ understanding of, interaction with, and behaviour around shape-changing interfaces. Addressing these challenges will produce empirical and theoretical insight about behaviour.
+
 ### Best Practices
 - [__3 Placeholder](/3-placeholder/)
 - [__3 Placeholder](/3-placeholder/)
