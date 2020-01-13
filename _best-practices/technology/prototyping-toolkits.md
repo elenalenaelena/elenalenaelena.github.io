@@ -1,10 +1,10 @@
 ---
 layout: best-practice
-title: "1 Prototyping Toolkits"
+title: "# Toolkits for Prototyping of Shape-changing Hardware"
 category: Technology
-permalink: /1-prototyping-toolkits/
+permalink: /prototyping-toolkits/
 ---
-# 1 Prototyping Toolkits
+# Toolkits for Prototyping of Shape-changing Hardware
 Prototyping [Elastic Displays](/terms/elastic-display) is challenging because it involves complex electronics as well as mechanical engineering. Specific use contexts may require different actuation approaches. What are suitable tools to test complex Elastic Display applications in an early development state?
 
 ### Solutions
