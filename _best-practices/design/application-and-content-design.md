@@ -1,11 +1,11 @@
 ---
 layout: best-practice
-title: "4 Placeholder"
+title: "Application and Content Design"
 category: "Design"
-permalink: /4-placeholder/
+permalink: /application-and-content-design/
 ---
 
-# 4 Placeholder
+# Application and Content Design
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 ### Solutions

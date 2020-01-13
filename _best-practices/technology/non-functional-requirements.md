@@ -1,11 +1,11 @@
 ---
 layout: best-practice
-title: "#4 Non-functional Requirements"
+title: "Non-functional Requirements"
 category: "Technology"
-permalink: /4-non-functional-requirements/
+permalink: /non-functional-requirements/
 ---
 
-# 2 Device Form and Resolution
+# Non-functional Requirements
 
 ### Solutions
 

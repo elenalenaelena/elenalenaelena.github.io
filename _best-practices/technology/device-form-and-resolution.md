@@ -1,11 +1,11 @@
 ---
 layout: best-practice
-title: "#2 Miniaturized Device Form Factors and High Resolution"
+title: "Device Form Factors and Resolution"
 category: "Technology"
-permalink: /2-device-form-and-resolution/
+permalink: /device-form-factors-and-resolution/
 ---
 
-# 2 Device Form and Resolution
+# Device Form Factors and Resolution
 
 ### Solutions
 
