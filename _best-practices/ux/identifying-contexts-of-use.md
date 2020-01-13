@@ -1,7 +1,7 @@
 ---
 layout: best-practice
 title: "Identifying Contexts of Use"
-category: "UX"
+category: "User Experience"
 lession: 5
 permalink: /identifying-contexts-of-use/
 ---

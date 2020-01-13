@@ -1,7 +1,7 @@
 ---
 layout: best-practice
 title: "Understanding UX Factors"
-category: "UX"
+category: "User Experience"
 lession: 6
 
 permalink: /understanding-ux-factors/
