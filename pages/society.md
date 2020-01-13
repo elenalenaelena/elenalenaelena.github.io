@@ -14,9 +14,9 @@ The regulatory, ethical and sustainability implications of the development of sh
 
 ### Best Practices
 
-{% assign best-practices = site.best-practices %}
+{% assign best-practices = site.best-practices | where: "category", page.title %}
 <ul>
-{% for item in best-practices | where: "item.category != page.title"%}
+{% for item in best-practices %}
   <li><a href="{{ item.url }}">{{ item.title }}</a></li>
 {% endfor %}
 </ul>
@@ -30,7 +30,7 @@ terms and concepts tagged with #{{page.title}}
 
 {% assign groups = site.best-practices | group_by: "category" %}
 
-{% for group in groups | where: group.name, !page.title %}
+{% for group in groups | where: group.name != page.title %}
 <a href="/{{ group.name | downcase | strip | replace:'user experience', 'ux' }}/">{{ group.name | replace:'UX', 'User Experience'}}</a>
 {: .topic .topic-{{ group.name | downcase | strip | replace:'user experience', 'ux'}}}
 
