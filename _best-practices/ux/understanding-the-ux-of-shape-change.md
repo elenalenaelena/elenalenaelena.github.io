@@ -1,11 +1,11 @@
 ---
 layout: best-practice
-title: "3 Placeholder"
+title: "Understanding the UX of Shape-Change"
 category: "UX"
-permalink: /3-placeholder/
+permalink: /understanding-the-ux-of-shape-change/
 ---
 
-# 3 Placeholder
+# Understanding the UX of Shape-Change
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 ### Solutions
