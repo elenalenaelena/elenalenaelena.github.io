@@ -43,5 +43,10 @@ collections:
   best-practices:
     output: true
     permalink: /:collection:/:title
+    sort_by: 
+      - technology
+      - ux
+      - design
+      - society
 
 remote_theme: "vsoch/docsy-jekyll"
