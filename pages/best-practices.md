@@ -10,7 +10,7 @@ Best Practices cover current challenges in research on elastic displays in the 4
 
 ### Topics
 
-{% assign groups = site.best-practices | group_by: "category" | sort "Technology, User Experience, Design, Society" %}
+{% assign groups = site.best-practices | group_by: "category" %}
 
 {% for group in groups %}
 <a href="/{{ group.name | downcase | strip | replace:'user experience', 'ux' }}/">{{ group.name | replace:'UX', 'User Experience'}}</a>
