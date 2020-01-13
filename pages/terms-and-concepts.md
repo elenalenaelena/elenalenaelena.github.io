@@ -4,7 +4,7 @@ title: Terms and Concepts
 permalink: /terms-and-concepts/
 ---
 
-# <i class="fa fa-book-open"></i> Glossary
+# <i class="fa fa-book-open"></i> Terms and Concepts
 
 Find detailed explanation about vocabulary and concepts of elastic displays.
 
