@@ -13,8 +13,13 @@ permalink: /ux/
 This section describes research challenges concerning users’ understanding of, interaction with, and behaviour around shape-changing interfaces. Addressing these challenges will produce empirical and theoretical insight about behaviour.
 
 ### Best Practices
-- [__3 Placeholder](/3-placeholder/)
-- [__3 Placeholder](/3-placeholder/)
+
+{% assign best-practices = site.best-practices | 'where: "category", {{ page.title | replace:'UX', 'User Experience'}} %}
+<ul>
+{% for item in best-practices %}
+  <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+{% endfor %}
+</ul>
 
 ### Terms and Concepts
 

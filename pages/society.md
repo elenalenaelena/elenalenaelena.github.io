@@ -13,8 +13,13 @@ permalink: /society/
 The regulatory, ethical and sustainability implications of the development of shape-changing interfaces will impact the long-term adoption of this technology, therefore also its longterm development.
 
 ### Best Practices
-- [__5 Placeholder](/5-placeholder/)
-- [__5 Placeholder](/5-placeholder/)
+
+{% assign best-practices = site.best-practices | 'where: "category", {{ page.title }} %}
+<ul>
+{% for item in best-practices %}
+  <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+{% endfor %}
+</ul>
 
 ### Terms and Concepts
 
