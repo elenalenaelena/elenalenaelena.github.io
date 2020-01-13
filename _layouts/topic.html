@@ -5,13 +5,11 @@ layout: plain
 {% include breadcrumb-topic.html %}
 
 <h4 class="strap">Topic</h4>
-<h1>{{ page.title }}</h1>
-{: .topic .topic-{{ group.name | downcase | strip | replace:'user experience', 'ux'}}}
+<h1 class=".topic .topic-{{ group.name | downcase | strip | replace:'user experience', 'ux'}}">{{ page.title }}</h1>
 
 {{ content }}
 
 <h3>Best Practices</h3>
-
 {% assign best-practices = site.best-practices | where: "category", page.title %}
 <ul>
 {% for item in best-practices %}
@@ -24,12 +22,10 @@ terms and concepts tagged with #{{page.title}}
 
 <hr class="panel-line">
 <h4>Other Topics</h4>
-
 {% assign groups = site.best-practices | group_by: "category" | where_exp: "group", "group.name != page.title"%}
 {% for group in groups %}
-<a href="/{{ group.name | downcase | strip | replace:'user experience', 'ux' }}/">{{ group.name | replace:'UX', 'User Experience'}}</a>
-{: .topic .topic-{{ group.name | downcase | strip | replace:'user experience', 'ux'}}}
-{%endfor%}
+<a class=".topic .topic-{{ group.name | downcase | strip | replace:'user experience', 'ux'}}" href="/{{ group.name | downcase | strip | replace:'user experience', 'ux' }}/">{{ group.name | replace:'UX', 'User Experience'}}</a>
+{% endfor %}
 
 {% include toc.html %}
 {% include permalinks.html %}
