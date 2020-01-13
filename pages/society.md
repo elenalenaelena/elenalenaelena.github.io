@@ -28,9 +28,9 @@ terms and concepts tagged with #{{page.title}}
 <hr class="panel-line">
 <h4>Other Topics</h4>
 
-{% assign groups = site.best-practices | group_by: "category" %}
+{% assign groups = site.best-practices | group_by: "category" | where_exp: "group", "group.name != page.title"%}
 
-{% for group in groups | where_exp: "group", "group.name != 'Society'" %}
+{% for group in groups %}
 <a href="/{{ group.name | downcase | strip | replace:'user experience', 'ux' }}/">{{ group.name | replace:'UX', 'User Experience'}}</a>
 {: .topic .topic-{{ group.name | downcase | strip | replace:'user experience', 'ux'}}}
 
