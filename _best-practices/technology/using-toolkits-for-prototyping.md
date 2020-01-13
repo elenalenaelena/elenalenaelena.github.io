@@ -1,10 +1,11 @@
 ---
 layout: best-practice
-title: "Toolkits for Prototyping"
+title: "Using Toolkits for Prototyping"
 category: Technology
-permalink: /toolkits-for-prototyping/
+lession: 1
+permalink: /using-toolkits-for-prototyping/
 ---
-# Toolkits for Prototyping
+# Using Toolkits for Prototyping
 Prototyping [Elastic Displays](/terms/elastic-display) is challenging because it involves complex electronics as well as mechanical engineering. Specific use contexts may require different actuation approaches. What are suitable tools to test complex Elastic Display applications in an early development state?
 
 ### Solutions

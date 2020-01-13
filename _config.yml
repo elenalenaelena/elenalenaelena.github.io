@@ -43,10 +43,6 @@ collections:
   best-practices:
     output: true
     permalink: /:collection:/:title
-    order: 
-      - technology
-      - ux
-      - design
-      - society
-
+    sort_by: lession
+    
 remote_theme: "vsoch/docsy-jekyll"

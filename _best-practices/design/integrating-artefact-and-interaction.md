@@ -2,6 +2,7 @@
 layout: best-practice
 title: "Integrating Artefact and Interaction"
 category: "Design"
+lession: 8
 permalink: /integrating-artefact-and-interaction/
 ---
 

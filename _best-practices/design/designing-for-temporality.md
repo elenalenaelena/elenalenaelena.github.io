@@ -2,6 +2,7 @@
 layout: best-practice
 title: "Designing for Temporality"
 category: "Design"
+lession: 7
 permalink: /designing-for-temporality/
 ---
 
