@@ -23,7 +23,7 @@ This section describes research challenges concerning users’ understanding of,
 
 ### Terms and Concepts
 
-weighted word cloud for {{page.title}}
+terms and concepts tagged with #{{page.title}}
 
 <hr class="panel-line">
 <h4>Other Topics</h4>

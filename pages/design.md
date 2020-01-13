@@ -23,7 +23,7 @@ This section describes the design research challenges. The biggest differences t
 
 ### Terms and Concepts
 
-weighted word cloud for {{page.title}}
+terms and concepts tagged with #{{page.title}}
 
 <hr class="panel-line">
 <h4>Other Topics</h4>

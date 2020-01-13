@@ -23,7 +23,7 @@ The regulatory, ethical and sustainability implications of the development of sh
 
 ### Terms and Concepts
 
-weighted word cloud for {{page.title}}
+terms and concepts tagged with #{{page.title}}
 
 <hr class="panel-line">
 <h4>Other Topics</h4>
