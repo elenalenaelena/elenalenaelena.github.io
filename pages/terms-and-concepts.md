@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Glossary
-permalink: /glossary/
+title: Terms and Concepts
+permalink: /terms-and-concepts/
 ---
 
 # <i class="fa fa-book-open"></i> Glossary

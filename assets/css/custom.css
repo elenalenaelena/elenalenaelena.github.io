@@ -115,13 +115,18 @@ li.topic::before {
     background-color: #ffde89
 }
 
-ul { 
-    list-style-type:none;
-    padding-left: 0;
+.pt-2,
+.py-2 {
+    padding-top: 3rem!important;
 }
 
 .td-navbar {
     background: #403f4c;
+}
+
+ul { 
+    list-style-type:none;
+    padding-left: 0;
 }
 
 
