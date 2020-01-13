@@ -28,11 +28,10 @@ terms and concepts tagged with #{{page.title}}
 <hr class="panel-line">
 <h4>Other Topics</h4>
 
-<a href="/technology/">Technology</a>
-{: .topic .topic-technology}
+{% assign groups = site.best-practices | group_by: "category" %}
 
-<a href="/ux/">User Experience</a>
-{: .topic .topic-ux}
+{% for group in groups | where: group.name, !page.title %}
+<a href="/{{ group.name | downcase | strip | replace:'user experience', 'ux' }}/">{{ group.name | replace:'UX', 'User Experience'}}</a>
+{: .topic .topic-{{ group.name | downcase | strip | replace:'user experience', 'ux'}}}
 
-<a href="/design/">Design</a>
-{: .topic .topic-design}
+{%endfor%}
