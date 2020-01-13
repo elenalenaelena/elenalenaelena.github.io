@@ -14,9 +14,9 @@ The regulatory, ethical and sustainability implications of the development of sh
 
 ### Best Practices
 
-{% assign best-practices = site.best-practices | where: "category", page.title %}
+{% assign best-practices = site.best-practices %}
 <ul>
-{% for item in best-practices %}
+{% for item in best-practices | where: "item.category != page.title"%}
   <li><a href="{{ item.url }}">{{ item.title }}</a></li>
 {% endfor %}
 </ul>
