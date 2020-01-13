@@ -14,7 +14,7 @@ Introduction on technical challenges of elastic displays in multiple areas. Tech
 
 ### Best Practices
 
-{% assign best-practices = site.best-practices | 'where: "category", {{ page.title }} %}
+{% assign best-practices = site.best-practices | where: "category", page.title %}
 <ul>
 {% for item in best-practices %}
   <li><a href="{{ item.url }}">{{ item.title }}</a></li>

@@ -14,7 +14,7 @@ This section describes research challenges concerning users’ understanding of,
 
 ### Best Practices
 
-{% assign best-practices = site.best-practices | 'where: "category", {{ page.title | replace:'UX', 'User Experience'}} %}
+{% assign best-practices = site.best-practices | where: "category",  'User Experience' %}
 <ul>
 {% for item in best-practices %}
   <li><a href="{{ item.url }}">{{ item.title }}</a></li>
