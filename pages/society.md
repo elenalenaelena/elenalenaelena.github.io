@@ -30,7 +30,7 @@ terms and concepts tagged with #{{page.title}}
 
 {% assign groups = site.best-practices | group_by: "category" %}
 
-{% for group in groups | where: group.name != page.title %}
+{% for group in groups | where_exp: "group", "group.name != page.title" %}
 <a href="/{{ group.name | downcase | strip | replace:'user experience', 'ux' }}/">{{ group.name | replace:'UX', 'User Experience'}}</a>
 {: .topic .topic-{{ group.name | downcase | strip | replace:'user experience', 'ux'}}}
 
