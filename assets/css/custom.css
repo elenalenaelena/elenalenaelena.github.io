@@ -63,6 +63,14 @@ li.topic::before {
     width: fit-content;
 }
 
+@media (min-width: 768px) {
+
+.responsive-nav {
+    display: none;
+}
+
+}
+
 /*** OVERWRITE ***/
 
 .breadcrumb-item+.breadcrumb-item::before {
