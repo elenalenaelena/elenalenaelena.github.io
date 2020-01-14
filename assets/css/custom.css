@@ -9,7 +9,6 @@
 
 #efre-logo {
     margin-top: 2em;
-    max-width: 80%;
 }
 
 .overflowX-scroll {
@@ -71,6 +70,10 @@ li.topic::before {
 
 .responsive-nav {
     display: none;
+}
+
+#efre-logo {
+    max-width: 80%;
 }
 
 }
