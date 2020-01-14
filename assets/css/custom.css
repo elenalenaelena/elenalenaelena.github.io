@@ -12,6 +12,10 @@
     max-width: 80%;
 }
 
+.responsive-nav {
+    overflow-x: scroll;
+}
+
 .topic a {
     color: inherit;
     font-weight: bold;
