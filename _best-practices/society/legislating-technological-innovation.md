@@ -6,7 +6,7 @@ lession: 10
 permalink: /legislating-technological-innovation/
 ---
 
-# Legislating Technological innovation
+# Legislating Technological Innovation
 The regulatory and ethical implications of the development of shape-changing interfaces will impact the long-term adoption of this technology, therefore also its longterm development.
 Shape-changing interfaces pose a number of safety and ethical risks that without suitable regulation may result in rejection by end-users or widespread bans by government. 
 

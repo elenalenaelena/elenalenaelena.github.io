@@ -61,6 +61,7 @@ li.topic::before {
     border-radius: 30px;
     border-width: 2px;
     display: inline-block;
+    margin-top: 1em;
     margin-right: 1em;
     padding: 0.7rem;
     width: fit-content;
