@@ -6,39 +6,13 @@
   links:
     - title: "Technology"
       url: "technology"
-      children:
-        - title: "Using Toolkits for Prototyping"
-          url: "using-toolkits-for-prototyping"
-        - title: "Combining Miniturization With Resolution"
-          url: "combining-miniaturization-with-resolution"
-        - title: "Integrating I/O Modalities"
-          url: "integrating-io-modalities"
-        - title: "Considering Non-functional Requirements"
-          url: "considering-non-functional-requirements"
     - title: "UX"
       url: "ux"
-      children:
-        - title: "Identifying Contexts of Use"
-          url: "identifying-contexts-of-use"
-        - title: "Understanding UX Factors"
-          url: "understanding-ux-factors"
     - title: "Design"
       url: "design"
-      children:
-        - title: "Designing for Temporality"
-          url: "designing-for-temporality"
-        - title: "Integrating Artefact and Interaction"
-          url: "integrating-artefact-and-interaction"
-        - title: "Designing Application and Content"
-          url: "designing-application-and-content"
     - title: "Society"
       url: "society"
-      children:
-        - title: "Legislating Technological Innovation"
-          url: "legislating-technological-innovation"
-        - title: "Developing Sustainable Interfaces"
-          url: "developing-sustainable-interfaces"
-
+    
 - title: Terms and Concepts
   url: terms-and-concepts
   links:
