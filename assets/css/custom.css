@@ -7,10 +7,10 @@
     --society: #ffba26;
 }
 
-.fix-bottom {
-    position:fixed;
-    bottom: 2em;
-}    
+#efre-logo {
+    margin-top: 2em;
+    max-width: 80%;
+}
 
 .topic a {
     color: inherit;
