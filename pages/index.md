@@ -1,35 +1,16 @@
 ---
 layout: page
-title: ZELASTO Knowledge Base
+title: Shape-changing Interfaces Knowledge Base
 permalink: /
 ---
 
-# ZELASTO Knowledge Base on Elastic Displays
+# Shape-changing Interfaces Knowledge Base
 
-## Purpose
+This project originates from the research project [ZELASTO](/2019/daten-zum-anfassen/) which explores the interaction with complex data using [Zoomable User Interfaces](/terms/zoomable-user-interface) on [Elastic Displays](/terms/elastic-display).
+We aim to spread recent knowledge on the research of [shape-changing interfaces](/terms/shape-changing-interface) (SCI) both theoretically and practically. 
+[Terms and Concepts](/terms-and-concepts/) provide a theoretical overview of SCI terminology. Focusing especially on elastic displays, [Best Practices](/best-practices/) explain how to practically overcome current challenges in SCI development. Additional workshop instructions for each Best Practice lower the barrier to implementation.
+More related content (e.g. media files or related projects) can be found under [Resources](/resources/). 
 
-- Einleitung
+## Support
 
-## Aufbau der Wissensbasis
-
-- 4 Themen
-- Themenbezogen oder als modularer Workshop nutzbar
-- Themen behandeln spezielle Herausforderungen elastischer Displays
-- Best Practices beschreiben jeweils, wie den Herausforderungen begegnet werden kann
-- optional gibt es eine Anleitung, wie sich dem Thema im Rahmen eines Workshops
-- Verlinkungen auf Glossar, Ressourcen und andere Best Practices
-
-## Themen
-
- - *Technology*  
- - *User Behaviour*
- - *Design*
- - *Society*
-
-## Glossar
-
-A - Z
-
-## Ressources
-
-- Dokumente, Bilder, andere Projekte, News, Interviews etc.
+If you need help, please don't hesitate to [open an issue](https://www.github.com/{{ site.github_repo }}/{{ site.github_user }}).
