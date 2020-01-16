@@ -7,12 +7,10 @@ layout: plain
 
 
 <hr class="panel-line">
-<!-- get all terms and sort alphabetically -->
-{% assign terms in site.terms | sort %}
 
-{% for term in terms %}
+{% for term in site.terms %}
     {% if term.title == page.title %}     
-    this term: <a href="{{ term.url }}">term.title</a>
+    <a href="{{ term.url }}">term.title</a>
     
         <!--{% unless forloop.last %}
             {% assign next_i = forloop.index0 | plus: 1 %}
