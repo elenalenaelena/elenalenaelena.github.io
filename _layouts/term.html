@@ -4,3 +4,24 @@ layout: plain
 <a href="/terms-and-concepts/" alt="back to terms and concepts"><i class="fa fa-arrow-left"></i> back to Terms and Concepts</a>
 <h3 class="font-weight-bold">{{ page.title }}</h3>
 {{ content }}
+
+
+<hr class="panel-line">
+<!-- get all terms and sort alphabetically -->
+{% assign terms in site.terms | sort %}
+
+{% for term in terms %}
+    {% if term.title == page.title %}        
+        {% unless forloop.last %}
+            {% assign next_i = forloop.index0 | plus: 1 %}
+            next: {{ terms[next_i].title }}
+        {% endunless %}
+        {% unless forloop.first %}
+            {% assign prev_i = forloop.index0 | minus: 1 %}
+            previous {{ terms[prev_i].title }}
+        {% endunless %}       
+    {% endif %}
+{% endfor %}
+
+
+
