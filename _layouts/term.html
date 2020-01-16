@@ -10,18 +10,10 @@ layout: plain
 
 {% for term in site.terms %}
     {% if term.title == page.title %} 
-        {% unless forloop.last %}        
-        <a href="{{ term.url | }}">{{term.title }}</a>
-        {% endunless %}
-    
-        <!--{% unless forloop.last %}
-            {% assign next_i = forloop.index0 | plus: 1 %}
-            next: {{ terms[next_i].title }}
-        {% endunless %}
-        {% unless forloop.first %}
-            {% assign prev_i = forloop.index0 | minus: 1 %}
-            previous {{ terms[prev_i].title }}
-        {% endunless %}   -->    
+        {% unless forloop.last %}   
+        {% assign next_i = forloop.index0 | plus: 1 %}
+        <a href="{{ terms[next_i].url }}">{{term.title }}</a>
+        {% endunless %}  
     {% endif %}
 {% endfor %}
 
