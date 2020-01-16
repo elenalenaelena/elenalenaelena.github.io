@@ -15,13 +15,13 @@ layout: plain
             {% assign previous_i = forloop.index0 | minus: 1 %} 
             {% assign previous_bp = terms | where: term.index, previous_i %} 
             
-            <a href="{{ previous_bp.url }}">{{ previous_bp.title }}</a>
+            <a href="{{ term[5].url }}">term 5</a>
             <p>{{ previous_i }} - index of the previous best practice</p>  
         {% endunless %} 
 
         {% unless forloop.last %} 
             {% assign next_i = forloop.index0 | plus: 1 %}             
-            <a href="{{ terms[next_i].url }}">{{ terms[next_i].title }}</a>
+            <a href="{{ term.url }}">{{ terms[next_i].title }}</a>
             <p>{{ next_i }} - index of the next best practice</p>  
         {% endunless %}  
 
