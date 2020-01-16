@@ -16,14 +16,14 @@ layout: plain
         {% unless forloop.first %}     
             {% assign previous_i = forloop.index0 | minus: 1 %}       
             <div class="half-width">
-                <a href="{{ terms[previous_i].url }}"><i class="block fa fa-chevron-circle-left fa-3x"></i></br><p>{{ terms[previous_i].title }}</p></a>
+                <a href="{{ terms[previous_i].url }}"><i class="block fa fa-chevron-circle-left fa-2x"></i></br>{{ terms[previous_i].title }}</a>
             </div>
         {% endunless %}     
 
         {% unless forloop.last %}     
             {% assign next_i = forloop.index0 | plus: 1 %}    
             <div class="half-width right-align">
-                <a href="{{ terms[next_i].url }}"><i class="block fa fa-chevron-circle-right fa-3x"></i></br><p>{{ terms[next_i].title }}</p></a>
+                <a href="{{ terms[next_i].url }}"><i class="block fa fa-chevron-circle-right fa-2x"></i></br>{{ terms[next_i].title }}</a>
             </div>
         {% endunless %}    
     </div>
