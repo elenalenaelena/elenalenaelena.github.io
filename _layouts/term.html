@@ -10,14 +10,13 @@ layout: plain
 
 {% for term in site.terms %}
     {% if term.title == page.title %} 
+    {% assign this_i = forloop.index0 %}
 
         {% unless forloop.last %} 
         <a href="{{ term.url }}">{{ term.title }}</a>
         <p>
-            forloop.index0 is {{forloop.index0}} - index of the current iteration (zero based)
-        </p>
-     
-
+            forloop.index0 is {{ this_i }} - index of the current iteration (zero based)
+        </p>  
         {% endunless %}  
     {% endif %}
 {% endfor %}
