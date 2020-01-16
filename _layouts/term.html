@@ -8,22 +8,17 @@ layout: plain
 
 <hr class="panel-line">
 
-{% for term in site.terms %}
-    {% if term.title == page.title %}     
-
+{% assign terms = site.terms %}
+{% for term in terms %}
+    <!-- find current term -->
+    {% if term.title == page.title %}  
+        <!-- make sure it's not the first term in the array -->
         {% unless forloop.first %} 
-            {% assign previous_i = forloop.index0 | minus: 1 %} 
-            {% assign previous_bp = terms | where: term.index, previous_i %} 
-            
-            <a href="{{ page.previous }}">{{ page.previous }}</a>
+            <!-- insert link to previous best practice -->
+            {% assign previous_i = forloop.index0 | minus: 1 %}                      
+            <a href="{{ terms[previous_i].url }}">{{ terms[previous_i].title }}</a>
             <p>{{ previous_i }} - index of the previous best practice</p>  
         {% endunless %} 
-
-        {% unless forloop.last %} 
-            {% assign next_i = forloop.index0 | plus: 1 %}             
-            <a href="{{ term.url }}">{{ terms[next_i].title }}</a>
-            <p>{{ next_i }} - index of the next best practice</p>  
-        {% endunless %}  
 
     {% endif %}
 {% endfor %}
