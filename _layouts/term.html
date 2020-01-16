@@ -15,7 +15,7 @@ layout: plain
             {% assign previous_i = forloop.index0 | minus: 1 %} 
             {% assign previous_bp = terms | where: term.index, previous_i %} 
             
-            <a href="{{ terms[5].url }}">term 5</a>
+            <a href="{{ page.previous }}">{{ page.previous }}</a>
             <p>{{ previous_i }} - index of the previous best practice</p>  
         {% endunless %} 
 
