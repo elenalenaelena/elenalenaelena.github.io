@@ -10,9 +10,8 @@ layout: plain
 
 {% for term in site.terms %}
     {% if term.title == page.title %} 
-        {% unless forloop.last %}   
-        {% assign next_i = forloop.index0 | plus: 1 %}
-        <a href="{{ terms[next_i].url }}">{{term.title }}</a>
+        {% unless forloop.last %} 
+        <a href="{{ terms[forloop.index0+1].url }}">{{ terms[forloop.index0+1].title }}</a>
         {% endunless %}  
     {% endif %}
 {% endfor %}
