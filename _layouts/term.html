@@ -9,8 +9,10 @@ layout: plain
 <hr class="panel-line">
 
 {% for term in site.terms %}
-    {% if term.title == page.title %}     
-    <a href="{{ term.url }}">term.title</a>
+    {% if term.title == page.title %} 
+        {% unless forloop.last %}        
+        <a href="{{ term.url | }}">{{term.title }}</a>
+        {% endunless %}
     
         <!--{% unless forloop.last %}
             {% assign next_i = forloop.index0 | plus: 1 %}
