@@ -9,15 +9,20 @@ layout: plain
 <hr class="panel-line">
 
 {% for term in site.terms %}
-    {% if term.title == page.title %} 
-    {% assign this_i = forloop.index0 | plus: 1 %}
+    {% if term.title == page.title %}     
+
+        {% unless forloop.first %} 
+            {% assign previous_i = forloop.index0 | minus: 1 %}             
+            <a href="{{ term.url }}">{{ term.title }}</a>
+            <p>index is {{ previous_i }} - index of the previous best practice</p>  
+        {% endunless %} 
 
         {% unless forloop.last %} 
-        <a href="{{ term.url }}">{{ term.title }}</a>
-        <p>
-            index is {{ this_i }} - index of the current iteration 
-        </p>  
+            {% assign next_i = forloop.index0 | plus: 1 %}             
+            <a href="{{ term.url }}">{{ term.title }}</a>
+            <p>index is {{ next_i }} - index of the next best practice</p>  
         {% endunless %}  
+
     {% endif %}
 {% endfor %}
 
