@@ -15,12 +15,12 @@ layout: plain
         
         {% unless forloop.first %}     
             {% assign previous_i = forloop.index0 | minus: 1 %}                      
-            <p>Previous: <a href="{{ terms[previous_i].url }}">{{ terms[previous_i].title }}</a></p>
+            <p>Previous term: <a href="{{ terms[previous_i].url }}"><i class="fa fa-arrow-left fa-3x"></i>{{ terms[previous_i].title }}</a></p>
         {% endunless %}     
 
         {% unless forloop.last %}     
             {% assign next_i = forloop.index0 | plus: 1 %}                      
-           <p>Next: <a href="{{ terms[next_i].url }}">{{ terms[next_i].title }}</a></p>
+           <p style="float: right;">Next term: <a href="{{ terms[next_i].url }}"><i class="fa fa-arrow-right fa-3x"></i>{{ terms[next_i].title }}</a></p>
         {% endunless %}
 
     {% endif %}
