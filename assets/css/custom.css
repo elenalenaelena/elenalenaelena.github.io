@@ -11,8 +11,9 @@
     margin-top: 2em;
 }
 
-.block {
+.block-icon {
     display: block;
+    margin-bottom: 1em;
 }
 
 .half-width {
@@ -64,10 +65,6 @@ li.topic::before {
 
 .topic-society {
     color: #ffba26 !important;
-}
-
-.top-padding {
-    padding-top: 1em;
 }
 
 .strap {
