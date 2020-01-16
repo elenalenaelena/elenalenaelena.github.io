@@ -66,6 +66,10 @@ li.topic::before {
     color: #ffba26 !important;
 }
 
+.top-padding {
+    padding-top: 1em;
+}
+
 .strap {
     color: #aaa;    
 }
