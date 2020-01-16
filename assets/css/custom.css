@@ -11,8 +11,17 @@
     margin-top: 2em;
 }
 
+.half-width {
+    width: 50%;
+    float: left;
+}
+
 .overflowX-scroll {
     overflow-x: scroll;
+}
+
+.right-align {
+    text-align: right;
 }
 
 .topic a {
@@ -67,9 +76,17 @@ li.topic::before {
     width: fit-content;
 }
 
+@media (max-width: 767px) {
+ 
+.desktop-nav {
+    display: none;
+}
+
+}
+
 @media (min-width: 768px) {
 
-.responsive-nav {
+.mobile-nav {
     display: none;
 }
 
