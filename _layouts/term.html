@@ -11,17 +11,16 @@ layout: plain
 {% assign terms = site.terms %}
 {% for term in terms %}
 
-    <!-- find current term -->
     {% if term.title == page.title %}              
         
         {% unless forloop.first %}     
             {% assign previous_i = forloop.index0 | minus: 1 %}                      
-            previous: <a href="{{ terms[previous_i].url }}">{{ terms[previous_i].title }}</a>
+            <p>Previous: <a href="{{ terms[previous_i].url }}">{{ terms[previous_i].title }}</a></p>
         {% endunless %}     
 
         {% unless forloop.last %}     
             {% assign next_i = forloop.index0 | plus: 1 %}                      
-            next: <a href="{{ terms[next_i].url }}">{{ terms[next_i].title }}</a>
+           <p>Next: <a href="{{ terms[next_i].url }}">{{ terms[next_i].title }}</a></p>
         {% endunless %}
 
     {% endif %}
