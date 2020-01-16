@@ -15,15 +15,15 @@ layout: plain
     <div>        
         {% unless forloop.first %}     
             {% assign previous_i = forloop.index0 | minus: 1 %}       
-            <div class="half-width right-align">
-                <a href="{{ terms[previous_i].url }}"><i class="fa fa-chevron-circle-left fa-2x"></i></br><span class="desktop-nav">{{ terms[previous_i].title }}</span></a>
+            <div class="half-width">
+                <a href="{{ terms[previous_i].url }}"><i class="fa fa-chevron-circle-left fa-2x"></i>&nbsp;Previous</br><span class="desktop-nav">{{ terms[previous_i].title }}</span></a>
             </div>
         {% endunless %}     
 
         {% unless forloop.last %}     
             {% assign next_i = forloop.index0 | plus: 1 %}    
             <div class="half-width right-align">
-                <a href="{{ terms[next_i].url }}"><i class="fa fa-chevron-circle-right fa-3x"></i></br><span class="desktop-nav">{{ terms[next_i].title }}</span></a>
+                <a href="{{ terms[next_i].url }}">Next&nbsp;<i class="fa fa-chevron-circle-right fa-2x"></i></br><span class="desktop-nav">{{ terms[next_i].title }}</span></a>
             </div>
         {% endunless %}    
     </div>
