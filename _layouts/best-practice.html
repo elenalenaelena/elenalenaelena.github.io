@@ -7,14 +7,8 @@ layout: plain
 <hr class="panel-line">
 <h4>More Best Practices</h4>
 
-<!-- andere Kategorien-->
-{% assign groups = site.best-practices | group_by: "category" | where_exp: "group", "group.name != page.title"%}
-{% for group in groups %}
-<a class="topic topic-{{ group.name | downcase | strip | replace:'user experience', 'ux'}}" href="/{{ group.name | downcase | strip | replace:'user experience', 'ux' }}/">{{ group.name | replace:'UX', 'User Experience'}}</a>
-{% endfor %}
-
 <!-- alle Best Pracctices aus der gleichen Kategorie-->
-{% assign best-practices = site.best-practices | where: "category", page.category %}
+{% assign best-practices = site.best-practices | where: "category", page.category | where_exp: "best-bestice", "best-practice.lession != page.lession" %}
 <ul>
 {% for item in best-practices %}
   <li><a href="{{ item.url }}">{{ item.title }}</a></li>
