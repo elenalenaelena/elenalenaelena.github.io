@@ -12,8 +12,10 @@ layout: plain
     {% if term.title == page.title %}     
 
         {% unless forloop.first %} 
-            {% assign previous_i = forloop.index0 | minus: 1 %}             
-            <a href="{{ terms[previous_i].url }}">{{ terms[previous_i].title }}</a>
+            {% assign previous_i = forloop.index0 | minus: 1 %} 
+            {% assign previous_bp = terms | where: term.index, previous_i %} 
+            
+            <a href="{{ previous_bp.url }}">{{ previous_bp.title }}</a>
             <p>{{ previous_i }} - index of the previous best practice</p>  
         {% endunless %} 
 
