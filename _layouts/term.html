@@ -14,7 +14,7 @@ layout: plain
     {% if term.title == page.title %}      
     <div>    
 
-        <div class="half-width"></div>    
+        <div class="half-width">  
         {% unless forloop.first %}     
             {% assign previous_i = forloop.index0 | minus: 1 %}       
                 <a href="{{ terms[previous_i].url }}"><i class="block fa fa-chevron-circle-left fa-2x"></i><span class="top-padding">{{ terms[previous_i].title }}</span></a>
