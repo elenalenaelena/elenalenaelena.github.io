@@ -7,11 +7,14 @@ layout: plain
 <hr class="panel-line">
 <h4>More Best Practices</h4>
 
-<!-- alle Best Pracctices aus der gleichen Kategorie-->
-{% assign best-practices = site.best-practices | where: "category", page.category | where_exp: "best-bestice", "best-practice.lession != page.lession" %}
+<!-- link to best practices in same category -->
+{% assign best-practices = site.best-practices | where: "category", page.category %}
 <ul>
 {% for item in best-practices %}
+ <!-- exclude current best practice from links -->
+ {% if item.lession != page.lession %} 
   <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+  {% endif %}
 {% endfor %}
 </ul>
 
