@@ -82,6 +82,10 @@ li.topic::before {
     width: fit-content;
 }
 
+.video-wrapper {
+    margin-bottom: 3em;
+}
+
 .video-wrapper iframe{
     width: 350px;
     height: 197px;
