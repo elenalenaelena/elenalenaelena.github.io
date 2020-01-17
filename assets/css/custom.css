@@ -83,7 +83,7 @@ li.topic::before {
 }
 
 .video-wrapper {
-    padding: 56.25% 0 0 0;
+    padding: 56.25% 0 8% 0;
     position: relative;
 }
 
@@ -111,11 +111,6 @@ li.topic::before {
 
 #efre-logo {
     max-width: 80%;
-}
-
-.video-wrapper iframe{
-    width: 30%;
-    height: 30%;
 }
 
 }
