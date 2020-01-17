@@ -82,6 +82,19 @@ li.topic::before {
     width: fit-content;
 }
 
+.video-wrapper {
+    padding: 56.25% 0 0 0;
+    position: relative;
+}
+
+.video-wrapper iframe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
 @media (max-width: 767px) {
  
 .desktop-nav {
@@ -98,6 +111,11 @@ li.topic::before {
 
 #efre-logo {
     max-width: 80%;
+}
+
+.video-wrapper iframe{
+    width: 30%;
+    height: 30%;
 }
 
 }
