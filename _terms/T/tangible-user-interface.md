@@ -11,12 +11,11 @@ The term Tangible User Interface (TUI) was first introduced by MIT's Tangible Me
 
 According to  in [Ullmer at al.](https://www.cct.lsu.edu/~ullmer/papers/tochi-40-02c-final.pdf) the **3 main approaches of TUIs** are 
 
-- tangible objects with interactive (tabletop) surfaces, 
-- constructive assemblies of modular connecting blocks (similar to the model of physical construction kits) and
-- token–constraint systems with physical “complementarities” such as plug and socket (tokens represent digital information or interactions of an application and constraints limit the interaction space)
+1. tangible objects with interactive (tabletop) surfaces, 
+2. constructive assemblies of modular connecting blocks (similar to the model of physical construction kits) and
+3. token–constraint systems with physical “complementarities” such as plug and socket (tokens represent digital information or interactions of an application and constraints limit the interaction space)
 
 ![The three dominant types of TUIs](/assets/img/types_of_tui.png)
-source: http://www.ehornecker.de/Papers/Final1100000026_Shaer.pdf, p.50
 
 ### Examples
 
