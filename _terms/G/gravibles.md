@@ -1,7 +1,7 @@
 ---
 layout: term
-title: Gravibles
-description: Gravibles in ZELASTO Knowledge Base
+title: Gravible
+description: definition of Gravible
 ---
 
 ...
