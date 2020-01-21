@@ -3,7 +3,7 @@ layout: term
 title: Elastic Display
 description: Elastic Display in ZELASTO Knowledge Base
 ---
-Under the aspect of deformation properties, elastic displays are [shape-changing interfaces](/terms/shape-changing-interface) that are only temporally deformable. They allow users to give input by force-touch (e.g. pinching, pushing, folding, and twisting the display), providing them with rich haptic feedback. After being deformed the display automatically returns into its inital flat state wherefore it can be referred to as a passive display. 
+Elastic displays are [shape-changing interfaces](/terms/shape-changing-interface) that are only temporally deformable, more precisely, they automatically return into their inital flat state after the deformation. The display allows users to give input by force-touch (e.g. pinching, pushing, folding, and twisting the display), providing them with rich haptic feedback.
 
 Most applications use rear-procection to display graphical content on the malleable surface, as it prevents users from covering the projection with their hand’s shadow while interacting. Nearly all feature the use of non-slippery, elastic fabric like for example latex, lycra and spandex. Detecting and tracking complex deformations and multi-touch on the deformable display are a remaining challenge. Many recent prototypes take advantage of the Microsoft Kinect depth sensor to rapidly detect multi-touch input in three dimensions, offsetting the high cost and unreliability of other approaches like infrared camera-based tracking.
 
