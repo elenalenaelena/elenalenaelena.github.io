@@ -86,7 +86,7 @@ li.topic::before {
     margin-bottom: 2em;
 }
 
-.media-wrapper iframe, .media-wrapper img{
+.media-wrapper iframe {
     width: 350px;
     height: 197px;
 }
@@ -107,7 +107,7 @@ li.topic::before {
     position: relative;
 }
 
-.media-wrapper iframe, .media-wrapper img {
+.media-wrapper iframe {
     position: absolute;
     top: 0;
     left: 0;
@@ -128,7 +128,7 @@ li.topic::before {
 }
 
 .responsive-media {
-    max-width: 30%;
+    max-width: 350px !important;
 }
 
 }
