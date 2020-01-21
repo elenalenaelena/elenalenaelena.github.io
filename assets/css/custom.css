@@ -91,6 +91,10 @@ li.topic::before {
     height: 197px;
 }
 
+.responsive-media {
+    margin: 2em 0;
+}
+
 
 @media (max-width: 767px) {
  
@@ -121,6 +125,10 @@ li.topic::before {
 
 #efre-logo {
     max-width: 80%;
+}
+
+.responsive-media {
+    max-width: 30%;
 }
 
 }

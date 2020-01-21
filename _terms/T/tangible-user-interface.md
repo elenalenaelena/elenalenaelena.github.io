@@ -15,9 +15,7 @@ According to  in [Ullmer at al.](https://www.cct.lsu.edu/~ullmer/papers/tochi-40
 2. constructive assemblies of modular connecting blocks (similar to the model of physical construction kits) and
 3. token–constraint systems with physical “complementarities” such as plug and socket (tokens represent digital information or interactions of an application and constraints limit the interaction space)
 
-<div class="media-wrapper">
-![The three dominant types of TUIs](/assets/img/types_of_tui.png)
-</div>
+![The three dominant types of TUIs](/assets/img/types_of_tui.png){:.responsive-media}
 
 ### Examples
 
