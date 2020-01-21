@@ -82,11 +82,11 @@ li.topic::before {
     width: fit-content;
 }
 
-.video-wrapper {
+.media-wrapper {
     margin-bottom: 2em;
 }
 
-.video-wrapper iframe{
+.media-wrapper iframe, .media-wrapper img{
     width: 350px;
     height: 197px;
 }
@@ -98,12 +98,12 @@ li.topic::before {
     display: none;
 }
 
-.video-wrapper {
+.media-wrapper {
     padding: 56.25% 0 10% 0;
     position: relative;
 }
 
-.video-wrapper iframe{
+.media-wrapper iframe, .media-wrapper img {
     position: absolute;
     top: 0;
     left: 0;
