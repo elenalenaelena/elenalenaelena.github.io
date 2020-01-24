@@ -12,9 +12,9 @@ additional resources related to the research on Elastic Displays
 ### Quizzes
 
 <ul>
-{% for quiz in site.data.quizzes %}
+{% for reference in site.data.references %}
 <li>
-<a href="{{ quiz.url }}">{{ quiz.title }} </a>
+    {{ reference.author }}{% if reference.date %} ({{ reference.date}}){% endif %}. {% if reference.in %}In: {{ reference.in}}. {% endif %}. <a href="{{ reference.url }}">{{ reference.title }} </a>. {{ reference.url }}
 </li>
 {% endfor %}
 </ul>
