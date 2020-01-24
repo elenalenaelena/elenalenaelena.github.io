@@ -2,8 +2,9 @@
 # If you need more fields, simply add them and don't forget to customize resources.md markup afterwards.
 # Predefined mandatory fields: title, author, url, year OR date
 # Predefined optional fields: in, publisher
+# to cite a reference look up the computed index on /resources page and follow this convention: [[index]](/resources/references/)
 - title: New Impressions in Interaction Design. A Task Taxonomy for Elastic Displays
-  in: "i-com: Vol. 17, No. 3."
+  in: "i-com: Vol. 17, No. 3"
   author: Kammer, D., Müller, M., Wojdziak, J. & Franke, I. S.
   year: 2018
   url: https://doi.org/10.1515/icom-2018-0021
