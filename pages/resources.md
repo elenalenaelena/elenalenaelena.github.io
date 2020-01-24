@@ -9,12 +9,14 @@ additional resources related to the research on Elastic Displays
 
 ### Media Files
 
-### Quizzes
+### References
 
+{% assign references = site.data.references | sort: "author" %}
 <ul>
-{% for reference in site.data.references %}
+{% for reference in references %}
+{% assign index = forloop.index %}
 <li>
-    {{ reference.author }}{% if reference.date %} ({{ reference.date}}) }{% elsif reference.year %} ({{ reference.year}}){% endif %}. <a href="{{ reference.url }}">{{ reference.title }}</a>.{% if reference.in %} In: {{ reference.in}}. {% endif %} {{ reference.url }}
+    [{{ index }}] {{ reference.author }}{% if reference.date %} ({{ reference.date}}) }{% elsif reference.year %} ({{ reference.year}}){% endif %}. <a href="{{ reference.url }}">{{ reference.title }}</a>.{% if reference.in %} In: {{ reference.in}}. {% endif %} {{ reference.url }}
 </li>
 {% endfor %}
 </ul>
