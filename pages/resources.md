@@ -14,7 +14,7 @@ additional resources related to the research on Elastic Displays
 <ul>
 {% for reference in site.data.references %}
 <li>
-    {{ reference.author }}{% if reference.date %} ({{ reference.date}}){% endif %}. {% if reference.in %}In: {{ reference.in}}. {% endif %}. <a href="{{ reference.url }}">{{ reference.title }} </a>. {{ reference.url }}
+    {{ reference.author }}{% if reference.date %} ({{ reference.date}}) }{% elsif reference.year %} ({{ reference.year}}) {% endif %}. {% if reference.in %}In: {{ reference.in}}. {% endif %} <a href="{{ reference.url }}">{{ reference.title }} </a>. {{ reference.url }}
 </li>
 {% endfor %}
 </ul>
