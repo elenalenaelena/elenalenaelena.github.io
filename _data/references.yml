@@ -3,26 +3,39 @@
 # Predefined mandatory fields: title, author, url, year OR date
 # Predefined optional fields: in, publisher
 # to cite a reference look up the computed index on /resources page and follow this convention: [[index]](/resources/#references)
-- title: New Impressions in Interaction Design. A Task Taxonomy for Elastic Displays
-  in: "i-com: Vol. 17, No. 3"
-  author: Kammer, D., Müller, M., Wojdziak, J. & Franke, I. S.
-  year: 2018
-  url: https://doi.org/10.1515/icom-2018-0021
-- title: Analysis and Classification of Shape-Changing Interfaces for Design and Application-based Research
-  in: "ACM Computing Surveys (CSUR)"
-  author: Sturdee, M., Alexander, J.
-  year: 2018
-  url: https://doi.org/10.1145/3143559
+
 - title: Grand Challenges in Shape-Changing Interface Research
   in: "CHI '18: Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems"
   author: Alexander, J., Roudaut, A.,Steimle, J., Hornbæk, K., Bruns Alonso, M., Sean Follmer, S., Merritt, T.
   year: 2018
   url: https://doi.org/10.1145/3173574.3173873
+- title: New Impressions in Interaction Design. A Task Taxonomy for Elastic Displays
+  in: "i-com: Vol. 17, No. 3"
+  author: Kammer, D., Müller, M., Wojdziak, J.,  Franke, I. S.
+  year: 2018
+  url: https://doi.org/10.1515/icom-2018-0021
+- title: "PaperPhone: Understanding the Use of Bend Gestures in Mobile Devices with Flexible Electronic Paper Displays!"
+  in: "CHI '11: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems"
+  author: Lahey, B., Girouard, A., Burleson, W., Vertegaal R.
+  year: 2011
+  url: https://doi.org/10.1145/1978942.1979136
+- title: Analysis and Classification of Shape-Changing Interfaces for Design and Application-based Research
+  in: "ACM Computing Surveys (CSUR)"
+  author: Sturdee, M., Alexander, J.
+  year: 2018
+  url: https://doi.org/10.1145/3143559
 - title: Token+constraint systems for tangible interaction with digital information
   in: ACM Transactions on Computer-Human Interaction (TOCHI)
   author: Ullmer, B., Ishii, H., Jacob R. J. K.
   year: 2005
   url: https://doi.org/10.1145/1057237.1057242
+- title: Organic User Interfaces
+  in: "Communications of the ACM"
+  author: Vertegaal, R., Poupyrev, I.
+  year: 2008
+  url: https://doi.org/10.1145/1349026.1349033
+
+  
   
 
 
