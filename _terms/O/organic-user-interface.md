@@ -10,7 +10,7 @@ The use of the word "organic" refers to the philosophy of organic architecture t
 2. Shaped: non-deformable shaped displays, e.g. geometric forms or objects or everday use
 3. Actuated (or kinetic): Deformable displays with a shape controlled by a computer algorithm
 
-Excluding non-deformable (shaped) displays, shape-changing interfaces (/terms/shape-changing-interface) can be considered either as a subgroup of organic user interfaces or an alternative approach to classify non-flat interface shapes. 
+Excluding non-deformable (shaped) displays, [shape-changing interfaces](/terms/shape-changing-interface) can be considered either as a subgroup of organic user interfaces or an alternative approach to classify non-flat interface shapes concentrating on deformation properties or context of use. 
 
 ### Examples
 

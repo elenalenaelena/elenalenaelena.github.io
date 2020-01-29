@@ -4,7 +4,7 @@ title: Shape-Changing Interface
 description: definition of Shape-Changing Interface
 ---
 Shape-changing Interfaces are interactive or computationally controlled devices that are able to transform into any shape or materiality. They use the device's physical shape as input and output thus providing direct, everyday world interaction experience und inherent support of multi-user interaction. In other words, Shape-changing Interfaces exploit our haptic and kinaestetic senses and instinctive perception of physical forms.
-The term shape-changing interface is an umbrella term for various interface types. Sturdee and Alexander [[3]](/resources/#references/) differ between Enhanced 2D, Bendable, Paper & Cloth, Elastic & Inflatable, Actuated, Liquid, Malleable and Hybrid Interfaces.
+The term shape-changing interface is an umbrella term for various interface types. Sturdee and Alexander [[4]](/resources/#references/) differ between Enhanced 2D, Bendable, Paper & Cloth, Elastic & Inflatable, Actuated, Liquid, Malleable and Hybrid Interfaces.
 
 ![types of SCI](/assets/img/sci-classification.png){:.responsive-media}
 

@@ -9,7 +9,7 @@ The term Tangible User Interface (TUI) was first introduced by MIT's Tangible Me
 
 **Application areas** for TUIs are collaboration, social commuication, learning, support of planning and problem solving, programming and simulation tools, information visualization and exploration, entertainment, performance and music. The design space of TUIs includes 2D / 3D space and virtual, augmented or mixed reality applications.
 
-According to  in Ullmer at al. [[4]](/resources/#references) the **3 main approaches of TUIs** are 
+According to Ullmer at al. [[5]](/resources/#references) the **3 main approaches of TUIs** are 
 
 1. tangible objects with interactive (tabletop) surfaces, 
 2. constructive assemblies of modular connecting blocks (similar to the model of physical construction kits) and
