@@ -28,7 +28,7 @@ additional resources related to the research on Elastic Displays
 {% for link in links %}
 {% assign index = forloop.index %}
 <li>
-    <a href="{{ reference.title }}">{{ reference.title }}</a>{% if reference.src %}, {{ reference.src}} {% endif %}. {{ reference.url }}
+    <a href="{{ link.title }}">{{ link.title }}</a>{% if link.src %}, {{ link.src}} {% endif %}. {{ link.url }}
 </li>
 {% endfor %}
 </ul>
