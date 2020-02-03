@@ -9,6 +9,8 @@ additional resources related to the research on Elastic Displays
 
 ### Media Files
 
+
+
 ### References
 
 {% assign references = site.data.references | sort: "author" %}
