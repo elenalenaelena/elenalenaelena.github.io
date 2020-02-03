@@ -9,7 +9,7 @@ Physical computing is, in short, making interactive physical systems out of hard
 
 **I-CubeX** is a system of sensors, actuators and interfaces configured by a personal computer. It uses MIDI, Bluetooth or USB for communication, making it simply for music or visual artists to create and modify musical instruments or interactive installations.
 
-An example for physical computing with an embedded system is the popular open-source **Arduino** platform, developed by italian researcher Massimo Banzi and his team since 2005. Making it possible to simplay control interactive objects or to interact with software applications the platform gained great popularity in interactive art installations.
+An example for physical computing with an embedded system is the popular open-source **Arduino** platform, developed by italian researcher Massimo Banzi and his team since 2005. Making it possible to simplay control interactive objects or to interact with software applications the platform gained great popularity in interactive art installations.A huge numebr of installations can be discovered on the official [Arduino Project Hub](https://create.arduino.cc/projecthub?by=part&category=installations&part_id=11332&sort=trending).
 
-The **Raspberry Pi** is a mini linux comupter on a SD card. Pins allow makers and hobbyists to connect electronic components, extend the capabilities with add-on boards and program physical devices in the real world, such as inputs like sensors and outputs like lights. 
+The **Raspberry Pi** is a mini linux comupter on a SD card. Pins allow makers and hobbyists to connect electronic components, extend the capabilities with add-on boards and program physical devices in the real world, such as inputs like sensors and outputs like lights. Visit the offical [website](https://projects.raspberrypi.org/en/projects) to browse a number of tutorial-like projects.
 
