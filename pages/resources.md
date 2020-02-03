@@ -26,9 +26,8 @@ additional resources related to the research on Elastic Displays
 {% assign links = site.data.links | sort: "title" %}
 <ul>
 {% for link in links %}
-{% assign index = forloop.index %}
 <li>
-    <a href="{{ link.title }}">{{ link.title }}</a>{% if link.src %}, {{ link.src}} {% endif %}. {{ link.url }}
+    <a href="{{ link.url }}">{{ link.title }}</a>{% if link.src %}, {{ link.src}} {% endif %}. {{ link.url }}
 </li>
 {% endfor %}
 </ul>

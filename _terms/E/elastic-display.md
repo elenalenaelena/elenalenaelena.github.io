@@ -11,7 +11,7 @@ The large visualization and interaction space of elastic displays is appropriate
 
 ### Examples
 
-The **DepthTouch** system was used to realize a product browser to search products by similarity and for interactive in-depth physics simulation.
+The **DepthTouch** system was used to realize a product browser to search products by similarity and for interactive in-depth physics simulation. (see: [DepthTouch: an elastic surface for tangible computing](/resources/#references))
 <div class="media-wrapper"><iframe src="https://player.vimeo.com/video/37264194" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 The **FlexiWall** system introduces different applications: a map viewer shows different semantic layers on geographical maps, a painting explorer allows analyzing the painting process through different radiological scans made of an art piece, and a photo browser allows local application of different image effects. Moreover, big data clustering algorithms can be investigated using either layers or a semantic zoom. 
