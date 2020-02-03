@@ -1,8 +1,8 @@
-# New entries will be automatically rendered on resources.md page.
+# New indexed entries will be automatically rendered on resources.md page.
 # If you need more fields, simply add them and don't forget to customize resources.md markup afterwards.
 # Predefined mandatory fields: title, author, url, year OR date
 # Predefined optional fields: in, publisher
-# to cite a reference look up the computed index on /resources page and follow this convention: [[index]](/resources/#references)
+# to cite a reference in a maintainable way follow this convention: [[title]](/resources/#references)
 
 - title: Grand Challenges in Shape-Changing Interface Research
   in: "CHI '18: Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems"
